@@ -1,0 +1,251 @@
+/*.7up-theme{
+	background-image: url('../image/7up.png');
+}*/
+.vc_element-icon.icon-st{
+	background-image: url('../image/7up.png');
+}
+#adminmenu .toplevel_page_ot-theme-options .wp-menu-image img {
+	padding: 1px;
+}
+#option-tree-header #option-tree-logo a{
+	padding-top: 0px !important;
+}
+#option-tree-header #option-tree-logo a:before{
+	display: none !important;
+}
+.s7up_image_check {
+	width: 85px;
+	float: right;
+	clear: left;
+	margin-top: -88px;
+}
+.s7up_image_check img{
+	width: 100%;
+}
+.has-show-image {
+	 width: calc(100% - 90px) !important;
+ }
+.s7up_image_check .modal {
+	display: none; /* Hidden by default */
+	position: fixed; /* Stay in place */
+	z-index: 1; /* Sit on top */
+	/*padding-top: 100px;*/ /* Location of the box */
+	/*left: 0;
+	top: 0;*/
+	/*width: 100%;*/ /* Full width */
+	/*height: 100%;*/ /* Full height */
+	overflow: auto; /* Enable scroll if needed */
+	margin-left: 37px;
+	box-shadow: 1px 1px 4px rgba(0,0,0,.25);
+}
+
+/* Modal Content (image) */
+.s7up_image_check .modal-content {
+	margin: auto;
+	display: block;
+	width: 100%;
+	max-width: 500px;
+}
+
+/* Caption of Modal Image */
+.s7up_image_check #caption {
+	display: none;
+	margin: auto;
+	width: 100%;
+	max-width: 500px;
+	text-align: center;
+	color: #ccc;
+	padding: 10px 0;
+	height: 150px;
+}
+
+/* Add Animation */
+.s7up_image_check .modal-content, #caption {
+	-webkit-animation-name: zoom;
+	-webkit-animation-duration: 0.6s;
+	animation-name: zoom;
+	animation-duration: 0.6s;
+}
+
+@-webkit-keyframes zoom {
+	from {max-width:0px}
+	to {max-width:500px}
+}
+
+@keyframes zoom {
+	from {max-width:0px}
+	to {max-width:500px}
+}
+
+/* The Close Button */
+.s7up_image_check .close {
+	display: none;
+	position: absolute;
+	top: 15px;
+	right: 35px;
+	color: #f1f1f1;
+	font-size: 40px;
+	font-weight: bold;
+	transition: 0.3s;
+}
+.s7up_image_check .modal .title{
+	margin: 0px;
+	padding: 5px 10px;
+	font-size: 12px;
+	color: #fff;
+	background: #2b4b80;
+}
+.s7up_image_check{
+	position: relative;
+}
+.s7up_image_check .fa-share{
+	position: absolute;
+	transform: rotate(150deg);
+	-webkit-transform: rotate(150deg);
+	-ms-transform: rotate(150deg);
+	-moz-transform: rotate(150deg);
+	top: -9px;
+	color: #00aef0;
+	font-size: 18px;
+}
+.s7up_image_check img.image_icon_mb{
+	width: 95%;
+	border: 1px solid #00aef0;
+}
+.s7up_image_check .title-view-demo{
+	position: absolute;
+	top: -24px;
+	right: -6px;
+	font-size: 10px;
+	color: #00aef0;
+}
+/* 100% Image Width on Smaller Screens */
+@media only screen and (max-width: 700px){
+	.s7up_image_check .modal-content {
+		width: 100%;
+	}
+}
+.s7up_image_check:hover .modal{
+	display: inline-block;
+}
+
+.vc_properties-list input.s7up_number{
+	width: 70%;
+	height: 35px;
+}
+.vc_wrapper-param-type-s7up_number .edit_form_line span.suffix{
+	background: #ddd;
+	font-size: 14px;
+	width: 30%;
+	height: 35px;
+	display: inline-block;
+	text-align: center;
+	line-height: 35px;
+}
+.s7upf-category-option .vc_checkbox-label{
+	display: inline-block;
+	width: 32%;
+}
+.menu-item-edit-active .menu-item-settings {
+	display: inline-block!important;
+}
+.live-previews img {
+	width: 80px;
+	height: 80px;
+}
+
+.mb-style-itemscustom .itemscustom {
+	height: 33px;
+}
+.mb-style-itemscustom .number_item_desktop  {
+	height: 33px;
+}
+.mb-style-itemscustom .logo_text {
+	height: 33px;
+}
+.custom-frame-video .iframe {
+	height: 50px;
+}
+.ui-datepicker.ui-widget {
+	z-index: 99999999!important;
+}
+
+/* ------- Begin option list item banner cart--------*/
+.list-item-banner-cat .item-banner-slider-cat{
+	border: 1px solid #ccc;
+	background: #fff;
+	margin-bottom: 10px;
+	position: relative;
+}
+.list-item-banner-cat .item-banner-slider-cat textarea{
+	width: 100%;
+}
+.list-item-banner-cat .item-banner-slider-cat .header-item{
+	border-bottom: 1px solid #ccc;
+	padding: 5px 10px;
+}
+.list-item-banner-cat .item-banner-slider-cat .header-item h2{
+	display: inline-block;
+	margin: 0px;
+	font-size: 14px;
+	color: #0085ba;
+}
+.list-item-banner-cat .item-banner-slider-cat .header-item .right-h{
+	display: inline-block;
+	float: right;
+	text-align: right;
+}
+.list-item-banner-cat .item-banner-slider-cat .header-item .right-h .s7upf-remover-item-banner{
+	border-radius: 3px;
+	margin-right: 5px;
+	background: #eb4c4c;
+	color: #fff;
+	line-height: 20px;
+	width: 20px;
+	height: 20px;
+	display: inline-block;
+	text-align: center;
+}
+.list-item-banner-cat .item-banner-slider-cat .header-item .right-h .show-hide{
+	background: #0085ba;
+	color: #fff;
+	border-radius: 3px;
+	width: 20px;
+	height: 20px;
+	line-height: 20px;
+	display: inline-block;
+	text-align: center;
+}
+.list-item-banner-cat .item-banner-slider-cat .content-item{
+	padding: 20px;
+}
+.list-item-banner-cat .item-banner-slider-cat .content-item label{
+	display: block;
+	margin-bottom: 5px;
+	font-weight: 500;
+}
+.list-item-banner-cat .item-banner-slider-cat .content-item input.sv-image-value{
+	width: 84%;
+}
+.list-item-banner-cat .item-banner-slider-cat .content-item .sv-button-upload{
+	text-align: center;
+	padding: 4px 10px;
+	vertical-align: top;
+}
+.list-item-banner-cat .item-banner-slider-cat .content-item .live-previews{
+	width: 80%;
+	display: inline-block;
+	margin-right: 6px;
+	margin-top: 5px;
+	margin-bottom: 5px;
+}
+.list-item-banner-cat .item-banner-slider-cat .content-item .live-previews img{
+	height: 40px;
+}
+.list-item-banner-cat .item-banner-slider-cat .content-item .sv-button-remove{
+	text-align: center;
+	padding: 4px 10px;
+	vertical-align: top;
+	margin-left: 3px;
+}
+/* ------- End option list item banner cart--------*/

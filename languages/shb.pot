@@ -1,0 +1,4338 @@
+# Copyright (C) 2019 the 7up WordPress team
+# This file is distributed under the GNU General Public License v2 or later.
+msgid ""
+msgstr ""
+"Project-Id-Version: SHB 2.1\n"
+"Report-Msgid-Bugs-To: https://wordpress.org/support/theme/top-shop\n"
+"POT-Creation-Date: 2019-01-02 09:43:52+00:00\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"PO-Revision-Date: 2019-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+
+#: 404.php:25
+msgid "Oops! That page can&rsquo;t be found."
+msgstr ""
+
+#: 404.php:29
+msgid "It looks like nothing was found at this location. Maybe try a search?"
+msgstr ""
+
+#: 7upframe/class/class-tgm-plugin-activation.php:334
+#: 7upframe/class/require-plugin.php:44
+msgid "Install Required Plugins"
+msgstr ""
+
+#: 7upframe/class/class-tgm-plugin-activation.php:335
+#: 7upframe/class/require-plugin.php:45
+msgid "Install Plugins"
+msgstr ""
+
+#. translators: %s: plugin name.
+
+#: 7upframe/class/class-tgm-plugin-activation.php:337
+#: 7upframe/class/require-plugin.php:46
+msgid "Installing Plugin: %s"
+msgstr ""
+
+#. translators: %s: plugin name.
+
+#: 7upframe/class/class-tgm-plugin-activation.php:339
+msgid "Updating Plugin: %s"
+msgstr ""
+
+#: 7upframe/class/class-tgm-plugin-activation.php:340
+#: 7upframe/class/require-plugin.php:47
+msgid "Something went wrong with the plugin API."
+msgstr ""
+
+#. translators: 1: plugin name(s).
+
+#: 7upframe/class/class-tgm-plugin-activation.php:377
+#: 7upframe/class/require-plugin.php:56
+msgid "Begin installing plugin"
+msgid_plural "Begin installing plugins"
+msgstr[0] ""
+msgstr[1] ""
+
+#: 7upframe/class/class-tgm-plugin-activation.php:382
+msgid "Begin updating plugin"
+msgid_plural "Begin updating plugins"
+msgstr[0] ""
+msgstr[1] ""
+
+#: 7upframe/class/class-tgm-plugin-activation.php:387
+#: 7upframe/class/require-plugin.php:57
+msgid "Begin activating plugin"
+msgid_plural "Begin activating plugins"
+msgstr[0] ""
+msgstr[1] ""
+
+#: 7upframe/class/class-tgm-plugin-activation.php:392
+#: 7upframe/class/require-plugin.php:58
+msgid "Return to Required Plugins Installer"
+msgstr ""
+
+#: 7upframe/class/class-tgm-plugin-activation.php:393
+#: 7upframe/class/class-tgm-plugin-activation.php:909
+#: 7upframe/class/class-tgm-plugin-activation.php:2615
+#: 7upframe/class/class-tgm-plugin-activation.php:3665
+msgid "Return to the Dashboard"
+msgstr ""
+
+#: 7upframe/class/class-tgm-plugin-activation.php:394
+#: 7upframe/class/class-tgm-plugin-activation.php:3241
+#: 7upframe/class/require-plugin.php:59
+msgid "Plugin activated successfully."
+msgstr ""
+
+#: 7upframe/class/class-tgm-plugin-activation.php:395
+#: 7upframe/class/class-tgm-plugin-activation.php:3034
+msgid "The following plugin was activated successfully:"
+msgstr ""
+
+#. translators: 1: plugin name.
+
+#: 7upframe/class/class-tgm-plugin-activation.php:397
+msgid "No action taken. Plugin %1$s was already active."
+msgstr ""
+
+#. translators: 1: plugin name.
+
+#: 7upframe/class/class-tgm-plugin-activation.php:399
+msgid "Plugin not activated. A higher version of %s is needed for this theme. Please update the plugin."
+msgstr ""
+
+#. translators: 1: dashboard link.
+
+#: 7upframe/class/class-tgm-plugin-activation.php:401
+msgid "All plugins installed and activated successfully. %1$s"
+msgstr ""
+
+#: 7upframe/class/class-tgm-plugin-activation.php:402
+msgid "Dismiss this notice"
+msgstr ""
+
+#: 7upframe/class/class-tgm-plugin-activation.php:403
+msgid "There are one or more required or recommended plugins to install, update or activate."
+msgstr ""
+
+#: 7upframe/class/class-tgm-plugin-activation.php:404
+msgid "Please contact the administrator of this site for help."
+msgstr ""
+
+#: 7upframe/class/class-tgm-plugin-activation.php:598
+msgid "This plugin needs to be updated to be compatible with your theme."
+msgstr ""
+
+#: 7upframe/class/class-tgm-plugin-activation.php:599
+msgid "Update Required"
+msgstr ""
+
+#: 7upframe/class/class-tgm-plugin-activation.php:716
+msgid "Set the parent_slug config variable instead."
+msgstr ""
+
+#: 7upframe/class/class-tgm-plugin-activation.php:1016
+msgid "The remote plugin package does not contain a folder with the desired slug and renaming did not work."
+msgstr ""
+
+#: 7upframe/class/class-tgm-plugin-activation.php:1016
+#: 7upframe/class/class-tgm-plugin-activation.php:1019
+msgid "Please contact the plugin provider and ask them to package their plugin according to the WordPress guidelines."
+msgstr ""
+
+#: 7upframe/class/class-tgm-plugin-activation.php:1019
+msgid "The remote plugin package consists of more than one file, but the files are not packaged in a folder."
+msgstr ""
+
+#: 7upframe/class/class-tgm-plugin-activation.php:1203
+#: 7upframe/class/class-tgm-plugin-activation.php:3030
+msgctxt "plugin A *and* plugin B"
+msgid "and"
+msgstr ""
+
+#. translators: %s: version number
+
+#: 7upframe/class/class-tgm-plugin-activation.php:2064
+msgid "TGMPA v%s"
+msgstr ""
+
+#: 7upframe/class/class-tgm-plugin-activation.php:2355
+msgid "Required"
+msgstr ""
+
+#: 7upframe/class/class-tgm-plugin-activation.php:2358
+msgid "Recommended"
+msgstr ""
+
+#: 7upframe/class/class-tgm-plugin-activation.php:2374
+msgid "WordPress Repository"
+msgstr ""
+
+#: 7upframe/class/class-tgm-plugin-activation.php:2377
+msgid "External Source"
+msgstr ""
+
+#: 7upframe/class/class-tgm-plugin-activation.php:2380
+msgid "Pre-Packaged"
+msgstr ""
+
+#: 7upframe/class/class-tgm-plugin-activation.php:2397
+msgid "Not Installed"
+msgstr ""
+
+#: 7upframe/class/class-tgm-plugin-activation.php:2401
+msgid "Installed But Not Activated"
+msgstr ""
+
+#: 7upframe/class/class-tgm-plugin-activation.php:2403
+msgid "Active"
+msgstr ""
+
+#: 7upframe/class/class-tgm-plugin-activation.php:2409
+msgid "Required Update not Available"
+msgstr ""
+
+#: 7upframe/class/class-tgm-plugin-activation.php:2412
+msgid "Requires Update"
+msgstr ""
+
+#: 7upframe/class/class-tgm-plugin-activation.php:2415
+msgid "Update recommended"
+msgstr ""
+
+#. translators: 1: install status, 2: update status
+
+#: 7upframe/class/class-tgm-plugin-activation.php:2424
+msgctxt "Install/Update Status"
+msgid "%1$s, %2$s"
+msgstr ""
+
+#. translators: 1: number of plugins.
+
+#: 7upframe/class/class-tgm-plugin-activation.php:2470
+msgctxt "plugins"
+msgid "All <span class=\"count\">(%s)</span>"
+msgid_plural "All <span class=\"count\">(%s)</span>"
+msgstr[0] ""
+msgstr[1] ""
+
+#. translators: 1: number of plugins.
+
+#: 7upframe/class/class-tgm-plugin-activation.php:2474
+msgid "To Install <span class=\"count\">(%s)</span>"
+msgid_plural "To Install <span class=\"count\">(%s)</span>"
+msgstr[0] ""
+msgstr[1] ""
+
+#. translators: 1: number of plugins.
+
+#: 7upframe/class/class-tgm-plugin-activation.php:2478
+msgid "Update Available <span class=\"count\">(%s)</span>"
+msgid_plural "Update Available <span class=\"count\">(%s)</span>"
+msgstr[0] ""
+msgstr[1] ""
+
+#. translators: 1: number of plugins.
+
+#: 7upframe/class/class-tgm-plugin-activation.php:2482
+msgid "To Activate <span class=\"count\">(%s)</span>"
+msgid_plural "To Activate <span class=\"count\">(%s)</span>"
+msgstr[0] ""
+msgstr[1] ""
+
+#: 7upframe/class/class-tgm-plugin-activation.php:2564
+msgctxt "as in: \"version nr unknown\""
+msgid "unknown"
+msgstr ""
+
+#: 7upframe/class/class-tgm-plugin-activation.php:2572
+msgid "Installed version:"
+msgstr ""
+
+#: 7upframe/class/class-tgm-plugin-activation.php:2580
+msgid "Minimum required version:"
+msgstr ""
+
+#: 7upframe/class/class-tgm-plugin-activation.php:2592
+msgid "Available version:"
+msgstr ""
+
+#: 7upframe/class/class-tgm-plugin-activation.php:2615
+msgid "No plugins to install, update or activate."
+msgstr ""
+
+#: 7upframe/class/class-tgm-plugin-activation.php:2629
+msgid "Plugin"
+msgstr ""
+
+#: 7upframe/class/class-tgm-plugin-activation.php:2630
+msgid "Source"
+msgstr ""
+
+#: 7upframe/class/class-tgm-plugin-activation.php:2631
+msgid "Type"
+msgstr ""
+
+#: 7upframe/class/class-tgm-plugin-activation.php:2635
+msgid "Version"
+msgstr ""
+
+#: 7upframe/class/class-tgm-plugin-activation.php:2636
+#: 7upframe/function/function.php:1418
+msgid "Status"
+msgstr ""
+
+#. translators: %2$s: plugin name in screen reader markup
+
+#: 7upframe/class/class-tgm-plugin-activation.php:2685
+msgid "Install %2$s"
+msgstr ""
+
+#. translators: %2$s: plugin name in screen reader markup
+
+#: 7upframe/class/class-tgm-plugin-activation.php:2690
+msgid "Update %2$s"
+msgstr ""
+
+#. translators: %2$s: plugin name in screen reader markup
+
+#: 7upframe/class/class-tgm-plugin-activation.php:2696
+msgid "Activate %2$s"
+msgstr ""
+
+#: 7upframe/class/class-tgm-plugin-activation.php:2766
+msgid "Upgrade message from the plugin author:"
+msgstr ""
+
+#: 7upframe/class/class-tgm-plugin-activation.php:2799
+msgid "Install"
+msgstr ""
+
+#: 7upframe/class/class-tgm-plugin-activation.php:2805
+msgid "Update"
+msgstr ""
+
+#: 7upframe/class/class-tgm-plugin-activation.php:2808
+msgid "Activate"
+msgstr ""
+
+#: 7upframe/class/class-tgm-plugin-activation.php:2839
+msgid "No plugins were selected to be installed. No action taken."
+msgstr ""
+
+#: 7upframe/class/class-tgm-plugin-activation.php:2841
+msgid "No plugins were selected to be updated. No action taken."
+msgstr ""
+
+#: 7upframe/class/class-tgm-plugin-activation.php:2882
+msgid "No plugins are available to be installed at this time."
+msgstr ""
+
+#: 7upframe/class/class-tgm-plugin-activation.php:2884
+msgid "No plugins are available to be updated at this time."
+msgstr ""
+
+#: 7upframe/class/class-tgm-plugin-activation.php:2990
+msgid "No plugins were selected to be activated. No action taken."
+msgstr ""
+
+#: 7upframe/class/class-tgm-plugin-activation.php:3016
+msgid "No plugins are available to be activated at this time."
+msgstr ""
+
+#: 7upframe/class/class-tgm-plugin-activation.php:3240
+msgid "Plugin activation failed."
+msgstr ""
+
+#. translators: 1: plugin name, 2: action number 3: total number of actions.
+
+#: 7upframe/class/class-tgm-plugin-activation.php:3605
+msgid "Show Details"
+msgstr ""
+
+#: 7upframe/class/class-tgm-plugin-activation.php:3605
+msgid "Hide Details"
+msgstr ""
+
+#: 7upframe/class/comment_walker.php:59
+msgid "Pingback:"
+msgstr ""
+
+#: 7upframe/class/comment_walker.php:59
+msgid "Edit"
+msgstr ""
+
+#: 7upframe/class/comment_walker.php:72
+msgid "says:"
+msgstr ""
+
+#: 7upframe/class/importer.php:25
+msgid "You do not have permission to do this"
+msgstr ""
+
+#: 7upframe/class/importer.php:32
+msgid "Importer Class Was Not Installed"
+msgstr ""
+
+#: 7upframe/class/importer.php:55
+msgid "Plugin: Option Tree must be installed first. Stop working!"
+msgstr ""
+
+#: 7upframe/class/importer.php:64
+msgid "Importing the demo theme options..."
+msgstr ""
+
+#: 7upframe/class/importer.php:64 7upframe/class/importer.php:90
+#: 7upframe/class/importer.php:188 7upframe/class/importer.php:222
+#: 7upframe/class/importer.php:266
+msgid "DONE!"
+msgstr ""
+
+#: 7upframe/class/importer.php:72
+msgid "Theme option contain NULL content. Stop working!"
+msgstr ""
+
+#: 7upframe/class/importer.php:90
+msgid "Importing the demo widgets..."
+msgstr ""
+
+#: 7upframe/class/importer.php:98
+msgid "Widget option contain NULL content. Stop working!"
+msgstr ""
+
+#: 7upframe/class/importer.php:115
+msgid "File Not Found. Stop working!"
+msgstr ""
+
+#: 7upframe/class/importer.php:188
+msgid "Importing menu settings ..."
+msgstr ""
+
+#: 7upframe/class/importer.php:199 7upframe/class/importer.php:266
+msgid "All Done! Have Fun"
+msgstr ""
+
+#: 7upframe/class/importer.php:222
+msgid "Setting reading options..."
+msgstr ""
+
+#: 7upframe/class/importer.php:266
+msgid "Setting Woocommerce options..."
+msgstr ""
+
+#: 7upframe/class/mega_menu.php:11
+msgid "Use content mega menu"
+msgstr ""
+
+#: 7upframe/class/mega_menu.php:140 7upframe/class/mega_menu.php:453
+#: 7upframe/controler/Customize_Control.php:277
+#: 7upframe/controler/Woocommerce_Control.php:432
+#: 7upframe/controler/Woocommerce_Control.php:603
+msgid "Remove"
+msgstr ""
+
+#: 7upframe/class/mega_menu.php:141
+#: 7upframe/controler/Woocommerce_Control.php:433
+#: 7upframe/controler/Woocommerce_Control.php:604
+msgid "Upload"
+msgstr ""
+
+#. translators: %s: title of menu item which is invalid
+
+#: 7upframe/class/mega_menu.php:322
+msgid "%s (Invalid)"
+msgstr ""
+
+#. translators: %s: title of menu item in draft status
+
+#: 7upframe/class/mega_menu.php:326
+msgid "%s (Pending)"
+msgstr ""
+
+#: 7upframe/class/mega_menu.php:339
+msgid "sub item"
+msgstr ""
+
+#: 7upframe/class/mega_menu.php:354
+msgid "Move up"
+msgstr ""
+
+#: 7upframe/class/mega_menu.php:367
+msgid "Move down"
+msgstr ""
+
+#: 7upframe/class/mega_menu.php:369
+msgid "Edit Menu Item"
+msgstr ""
+
+#: 7upframe/class/mega_menu.php:380
+msgid "URL"
+msgstr ""
+
+#: 7upframe/class/mega_menu.php:387
+msgid "Navigation Label"
+msgstr ""
+
+#: 7upframe/class/mega_menu.php:393
+msgid "Title Attribute"
+msgstr ""
+
+#: 7upframe/class/mega_menu.php:400
+msgid "Open link in a new window/tab"
+msgstr ""
+
+#: 7upframe/class/mega_menu.php:410
+msgid "CSS Classes (optional)"
+msgstr ""
+
+#: 7upframe/class/mega_menu.php:417
+msgid "Link Relationship (XFN)"
+msgstr ""
+
+#: 7upframe/class/mega_menu.php:420 7upframe/element/vc_info_box.php:226
+msgid "Description"
+msgstr ""
+
+#: 7upframe/class/mega_menu.php:422
+msgid "The description will be displayed in the menu if the current theme supports it."
+msgstr ""
+
+#: 7upframe/class/mega_menu.php:428
+msgid "Move"
+msgstr ""
+
+#: 7upframe/class/mega_menu.php:429
+msgid "Up one"
+msgstr ""
+
+#: 7upframe/class/mega_menu.php:430
+msgid "Down one"
+msgstr ""
+
+#: 7upframe/class/mega_menu.php:433
+msgid "To the top"
+msgstr ""
+
+#: 7upframe/class/mega_menu.php:440
+msgid "Original: %s"
+msgstr ""
+
+#: 7upframe/class/mega_menu.php:454
+msgid "Cancel"
+msgstr ""
+
+#: 7upframe/class/require-plugin.php:48
+msgid "This theme requires the following plugin: %1$s."
+msgid_plural "This theme requires the following plugins: %1$s."
+msgstr[0] ""
+msgstr[1] ""
+
+#: 7upframe/class/require-plugin.php:49
+msgid "This theme recommends the following plugin: %1$s."
+msgid_plural "This theme recommends the following plugins: %1$s."
+msgstr[0] ""
+msgstr[1] ""
+
+#: 7upframe/class/require-plugin.php:50
+msgid "Sorry, but you do not have the correct permissions to install the %s plugin. Contact the administrator of this site for help on getting the plugin installed."
+msgid_plural "Sorry, but you do not have the correct permissions to install the %s plugins. Contact the administrator of this site for help on getting the plugins installed."
+msgstr[0] ""
+msgstr[1] ""
+
+#: 7upframe/class/require-plugin.php:51
+msgid "The following required plugin is currently inactive: %1$s."
+msgid_plural "The following required plugins are currently inactive: %1$s."
+msgstr[0] ""
+msgstr[1] ""
+
+#: 7upframe/class/require-plugin.php:52
+msgid "The following recommended plugin is currently inactive: %1$s."
+msgid_plural "The following recommended plugins are currently inactive: %1$s."
+msgstr[0] ""
+msgstr[1] ""
+
+#: 7upframe/class/require-plugin.php:53
+msgid "Sorry, but you do not have the correct permissions to activate the %s plugin. Contact the administrator of this site for help on getting the plugin activated."
+msgid_plural "Sorry, but you do not have the correct permissions to activate the %s plugins. Contact the administrator of this site for help on getting the plugins activated."
+msgstr[0] ""
+msgstr[1] ""
+
+#: 7upframe/class/require-plugin.php:54
+msgid "The following plugin needs to be updated to its latest version to ensure maximum compatibility with this theme: %1$s."
+msgid_plural "The following plugins need to be updated to their latest version to ensure maximum compatibility with this theme: %1$s."
+msgstr[0] ""
+msgstr[1] ""
+
+#: 7upframe/class/require-plugin.php:55
+msgid "Sorry, but you do not have the correct permissions to update the %s plugin. Contact the administrator of this site for help on getting the plugin updated."
+msgid_plural "Sorry, but you do not have the correct permissions to update the %s plugins. Contact the administrator of this site for help on getting the plugins updated."
+msgstr[0] ""
+msgstr[1] ""
+
+#: 7upframe/class/require-plugin.php:60
+msgid "All plugins installed and activated successfully. %s"
+msgstr ""
+
+#: 7upframe/config/config.php:18
+msgid "Primary Navigation"
+msgstr ""
+
+#: 7upframe/config/config.php:23
+msgid "Blog Sidebar"
+msgstr ""
+
+#: 7upframe/config/config.php:25
+msgid "Widgets in this area will be shown on all blog page."
+msgstr ""
+
+#: 7upframe/config/config.php:46
+msgid "Option Tree"
+msgstr ""
+
+#: 7upframe/config/config.php:52
+msgid "Contact Form 7"
+msgstr ""
+
+#: 7upframe/config/config.php:57
+msgid "Visual Composer"
+msgstr ""
+
+#: 7upframe/config/config.php:64
+msgid "7up Core"
+msgstr ""
+
+#: 7upframe/config/config.php:71
+msgid "WooCommerce"
+msgstr ""
+
+#: 7upframe/config/config.php:76
+msgid "Mail Chimp"
+msgstr ""
+
+#: 7upframe/config/config.php:81
+msgid "Yith Woocommerce Compare"
+msgstr ""
+
+#: 7upframe/config/config.php:86
+msgid "Yith Woocommerce Wishlist"
+msgstr ""
+
+#: 7upframe/config/config.php:97
+msgid " General Settings"
+msgstr ""
+
+#: 7upframe/config/config.php:101
+msgid " Menu Settings"
+msgstr ""
+
+#: 7upframe/config/config.php:105
+msgid "Blog Settings"
+msgstr ""
+
+#: 7upframe/config/config.php:109
+msgid " Layout Settings"
+msgstr ""
+
+#: 7upframe/config/config.php:113
+msgid " Typography"
+msgstr ""
+
+#: 7upframe/config/config.php:122
+msgid "General theme"
+msgstr ""
+
+#: 7upframe/config/config.php:126 7upframe/controler/Header_Control.php:23
+#: 7upframe/controler/Header_Control.php:24
+#: 7upframe/controler/Header_Control.php:25
+#: 7upframe/controler/Header_Control.php:26
+#: 7upframe/controler/Metabox_Control.php:96
+#: 7upframe/controler/Metabox_Control.php:181
+msgid "Header Page"
+msgstr ""
+
+#: 7upframe/config/config.php:127
+msgid "Include Header content. Go to Header in admin menu to edit/create header content. Note this value default for all pages of your site, If have any page/single page display other content pehaps you are set specific header for it"
+msgstr ""
+
+#: 7upframe/config/config.php:134 7upframe/controler/Footer_Control.php:23
+#: 7upframe/controler/Footer_Control.php:24
+#: 7upframe/controler/Footer_Control.php:25
+#: 7upframe/controler/Footer_Control.php:26
+#: 7upframe/controler/Metabox_Control.php:104
+#: 7upframe/controler/Metabox_Control.php:189
+msgid "Footer Page"
+msgstr ""
+
+#: 7upframe/config/config.php:135
+msgid "Include Footer content. Go to Footer in admin menu to edit/create footer content.  Note this value default for all pages of your site, If have any page/single page display other content pehaps you are set specific footer for it"
+msgstr ""
+
+#: 7upframe/config/config.php:142
+msgid "404 Page"
+msgstr ""
+
+#: 7upframe/config/config.php:143
+msgid "Include page to 404 page"
+msgstr ""
+
+#: 7upframe/config/config.php:149 7upframe/controler/Metabox_Control.php:220
+msgid "Show BreadCrumb"
+msgstr ""
+
+#: 7upframe/config/config.php:150 7upframe/controler/Metabox_Control.php:221
+msgid "This allow you to show or hide BreadCrumb"
+msgstr ""
+
+#: 7upframe/config/config.php:158
+msgid "Main color"
+msgstr ""
+
+#: 7upframe/config/config.php:164
+msgid "Map API key"
+msgstr ""
+
+#: 7upframe/config/config.php:172
+msgid "Favicon"
+msgstr ""
+
+#: 7upframe/config/config.php:173
+msgid "This allow you to change favicon of your website"
+msgstr ""
+
+#: 7upframe/config/config.php:180
+msgid "Show edit admin"
+msgstr ""
+
+#: 7upframe/config/config.php:181
+msgid "This allows you to display edit button in frontend."
+msgstr ""
+
+#: 7upframe/config/config.php:193
+msgid "Menu Fixed"
+msgstr ""
+
+#: 7upframe/config/config.php:201
+msgid "Menu style"
+msgstr ""
+
+#: 7upframe/config/config.php:207
+msgid "Hover color"
+msgstr ""
+
+#: 7upframe/config/config.php:208 7upframe/config/config.php:215
+#: 7upframe/config/config.php:228 7upframe/config/config.php:235
+msgid "Choose color"
+msgstr ""
+
+#: 7upframe/config/config.php:214
+msgid "Background Hover color"
+msgstr ""
+
+#: 7upframe/config/config.php:221
+msgid "Menu Sub style"
+msgstr ""
+
+#: 7upframe/config/config.php:227
+msgid "Hover Sub color"
+msgstr ""
+
+#: 7upframe/config/config.php:234
+msgid "Background Sub Hover color"
+msgstr ""
+
+#: 7upframe/config/config.php:245
+msgid "Page list post"
+msgstr ""
+
+#: 7upframe/config/config.php:250 7upframe/element/vc-blog.php:148
+msgid "Style blog"
+msgstr ""
+
+#: 7upframe/config/config.php:251 7upframe/config/config.php:353
+#: 7upframe/config/config.php:481 7upframe/element/vc-banner.php:81
+#: 7upframe/element/vc-menu.php:240 7upframe/element/vc-product.php:394
+#: 7upframe/element/vc-product.php:417 7upframe/element/vc-product.php:446
+#: 7upframe/element/vc-service.php:61 7upframe/element/vc-top-bar.php:66
+#: 7upframe/element/vc_info_box.php:85
+msgid "Select style"
+msgstr ""
+
+#: 7upframe/config/config.php:256 7upframe/config/config.php:358
+#: 7upframe/config/config.php:486
+msgid "Style default"
+msgstr ""
+
+#: 7upframe/config/config.php:260 7upframe/config/config.php:362
+msgid "Style classic 1"
+msgstr ""
+
+#: 7upframe/config/config.php:264 7upframe/config/config.php:366
+msgid "Style classic 2"
+msgstr ""
+
+#: 7upframe/config/config.php:271
+msgid "Custom column blog"
+msgstr ""
+
+#: 7upframe/config/config.php:272
+msgid "Select number column"
+msgstr ""
+
+#: 7upframe/config/config.php:278 7upframe/config/config.php:381
+#: 7upframe/element/vc-banner.php:160 7upframe/element/vc-google-map.php:124
+#: 7upframe/element/vc-product.php:811 7upframe/element/vc-product.php:858
+#: 7upframe/element/vc-product.php:988
+msgid "Default"
+msgstr ""
+
+#: 7upframe/config/config.php:282 7upframe/config/config.php:385
+#: 7upframe/element/vc-product.php:815
+msgid "1 column"
+msgstr ""
+
+#: 7upframe/config/config.php:286 7upframe/config/config.php:389
+#: 7upframe/element/vc-product.php:814
+msgid "2 columns"
+msgstr ""
+
+#: 7upframe/config/config.php:290 7upframe/config/config.php:393
+#: 7upframe/element/vc-product.php:813
+msgid "3 columns"
+msgstr ""
+
+#: 7upframe/config/config.php:297 7upframe/element/vc-blog.php:250
+#: 7upframe/element/vc-product.php:956 7upframe/element/vc-product.php:970
+msgid "Number word excerpt"
+msgstr ""
+
+#: 7upframe/config/config.php:298
+msgid "This allows you to change the number of words in the excerpt (Default: 30 word)."
+msgstr ""
+
+#: 7upframe/config/config.php:306 7upframe/config/config.php:539
+#: 7upframe/config/config.php:970
+msgid "Custom size image"
+msgstr ""
+
+#: 7upframe/config/config.php:309 7upframe/config/config.php:542
+#: 7upframe/config/config.php:973 7upframe/config/config.php:1077
+#: 7upframe/element/vc-banner.php:179 7upframe/element/vc-blog.php:376
+#: 7upframe/element/vc-item-banner.php:82
+#: 7upframe/element/vc-logo-header.php:109 7upframe/element/vc-menu.php:525
+#: 7upframe/element/vc-product.php:1065 7upframe/element/vc-product.php:1078
+#: 7upframe/element/vc-service.php:162 7upframe/element/vc-testimonials.php:98
+#: 7upframe/element/vc_info_box.php:299
+msgid "Enter image size (Example: \"thumbnail\", \"medium\", \"large\", \"full\" or other sizes defined by theme). Alternatively enter size in pixels (Example: 200x100 (Width x Height))."
+msgstr ""
+
+#: 7upframe/config/config.php:314 7upframe/config/config.php:400
+#: 7upframe/config/config.php:438 7upframe/controler/Metabox_Control.php:46
+#: 7upframe/controler/Metabox_Control.php:232
+#: 7upframe/controler/Woocommerce_Control.php:588
+#: 7upframe/controler/Woocommerce_Control.php:619
+#: 7upframe/controler/Woocommerce_Control.php:779
+msgid "Enable banner"
+msgstr ""
+
+#: 7upframe/config/config.php:315 7upframe/config/config.php:401
+#: 7upframe/config/config.php:439
+#: 7upframe/controler/Woocommerce_Control.php:780
+msgid "This allow you to turn on or off Banner."
+msgstr ""
+
+#: 7upframe/config/config.php:322 7upframe/config/config.php:408
+#: 7upframe/config/config.php:446 7upframe/config/config.php:917
+#: 7upframe/config/config.php:995 7upframe/controler/Metabox_Control.php:239
+#: 7upframe/controler/Woocommerce_Control.php:802
+msgid "Add banner slider item"
+msgstr ""
+
+#: 7upframe/config/config.php:323 7upframe/config/config.php:337
+#: 7upframe/config/config.php:409 7upframe/config/config.php:423
+#: 7upframe/config/config.php:447 7upframe/config/config.php:462
+#: 7upframe/config/config.php:918 7upframe/config/config.php:932
+#: 7upframe/config/config.php:996 7upframe/config/config.php:1010
+#: 7upframe/controler/Metabox_Control.php:240
+#: 7upframe/controler/Metabox_Control.php:254
+#: 7upframe/controler/Woocommerce_Control.php:803
+#: 7upframe/controler/Woocommerce_Control.php:818
+msgid "Enter info."
+msgstr ""
+
+#: 7upframe/config/config.php:330 7upframe/config/config.php:416
+#: 7upframe/config/config.php:454 7upframe/config/config.php:925
+#: 7upframe/config/config.php:1003 7upframe/controler/Metabox_Control.php:67
+#: 7upframe/controler/Metabox_Control.php:246
+#: 7upframe/controler/Woocommerce_Control.php:810
+msgid "Background banner"
+msgstr ""
+
+#: 7upframe/config/config.php:331 7upframe/config/config.php:417
+#: 7upframe/config/config.php:455 7upframe/config/config.php:926
+#: 7upframe/config/config.php:1004 7upframe/controler/Metabox_Control.php:68
+#: 7upframe/controler/Metabox_Control.php:247
+#: 7upframe/controler/Woocommerce_Control.php:811
+#: 7upframe/element/vc-banner.php:93 7upframe/element/vc-item-banner.php:50
+#: 7upframe/element/vc-product.php:1092 7upframe/element/vc-product.php:1133
+#: 7upframe/element/vc-service.php:98 7upframe/element/vc-testimonials.php:54
+#: 7upframe/element/vc_info_box.php:177
+msgid "Select image from library."
+msgstr ""
+
+#: 7upframe/config/config.php:336 7upframe/config/config.php:422
+#: 7upframe/config/config.php:461 7upframe/config/config.php:931
+#: 7upframe/config/config.php:1009 7upframe/controler/Metabox_Control.php:253
+#: 7upframe/controler/Woocommerce_Control.php:817
+#: 7upframe/element/vc-product.php:1107 7upframe/element/vc-product.php:1142
+msgid "Info banner"
+msgstr ""
+
+#: 7upframe/config/config.php:348
+msgid "Search template"
+msgstr ""
+
+#: 7upframe/config/config.php:352
+msgid "Template style"
+msgstr ""
+
+#: 7upframe/config/config.php:374
+msgid "Number column grid"
+msgstr ""
+
+#: 7upframe/config/config.php:375
+msgid "Select column"
+msgstr ""
+
+#: 7upframe/config/config.php:434
+msgid "Page post detail"
+msgstr ""
+
+#: 7upframe/config/config.php:472 7upframe/controler/Metabox_Control.php:112
+msgid "Hidden media in detail page"
+msgstr ""
+
+#: 7upframe/config/config.php:474 7upframe/controler/Metabox_Control.php:114
+msgid "This allow you hidden media, gallery or image in your posts."
+msgstr ""
+
+#: 7upframe/config/config.php:480
+msgid "Info style"
+msgstr ""
+
+#: 7upframe/config/config.php:490
+msgid "Style two columns"
+msgstr ""
+
+#: 7upframe/config/config.php:498
+msgid "Enable share post"
+msgstr ""
+
+#: 7upframe/config/config.php:499
+msgid "This allow you to show button share."
+msgstr ""
+
+#: 7upframe/config/config.php:506
+msgid "Enable post control"
+msgstr ""
+
+#: 7upframe/config/config.php:507
+msgid "This allow you to show bar post control."
+msgstr ""
+
+#: 7upframe/config/config.php:514
+msgid "Enable post related"
+msgstr ""
+
+#: 7upframe/config/config.php:515
+msgid "This allow you to show list post related."
+msgstr ""
+
+#: 7upframe/config/config.php:522
+msgid "Title related"
+msgstr ""
+
+#: 7upframe/config/config.php:523 7upframe/element/vc-banner.php:212
+#: 7upframe/element/vc-blog.php:172 7upframe/element/vc-intagram.php:74
+#: 7upframe/element/vc-item-banner.php:68 7upframe/element/vc-menu.php:474
+#: 7upframe/element/vc-product.php:475 7upframe/element/vc-top-bar.php:150
+msgid "Enter text"
+msgstr ""
+
+#: 7upframe/config/config.php:530
+msgid "Number post related"
+msgstr ""
+
+#: 7upframe/config/config.php:546
+msgid "Enable info author"
+msgstr ""
+
+#: 7upframe/config/config.php:547
+msgid "This allow you to show box info author."
+msgstr ""
+
+#: 7upframe/config/config.php:558
+msgid "Sidebar Blog"
+msgstr ""
+
+#: 7upframe/config/config.php:561 7upframe/config/config.php:590
+#: 7upframe/config/config.php:619 7upframe/config/config.php:648
+#: 7upframe/config/config.php:944 7upframe/config/config.php:1022
+msgid "Left, or Right, or Center"
+msgstr ""
+
+#: 7upframe/config/config.php:565 7upframe/config/config.php:594
+#: 7upframe/config/config.php:623 7upframe/config/config.php:652
+#: 7upframe/config/config.php:948 7upframe/config/config.php:1026
+#: 7upframe/controler/Metabox_Control.php:144
+#: 7upframe/controler/Woocommerce_Control.php:732
+msgid "No Sidebar"
+msgstr ""
+
+#: 7upframe/config/config.php:569 7upframe/config/config.php:598
+#: 7upframe/config/config.php:627 7upframe/config/config.php:656
+#: 7upframe/config/config.php:952 7upframe/config/config.php:1030
+#: 7upframe/controler/Woocommerce_Control.php:736
+#: 7upframe/element/vc-banner.php:246 7upframe/element/vc-logo-header.php:94
+#: 7upframe/element/vc-menu.php:306 7upframe/element/vc-product.php:1051
+#: 7upframe/element/vc-top-bar.php:195
+msgid "Left"
+msgstr ""
+
+#: 7upframe/config/config.php:573 7upframe/config/config.php:602
+#: 7upframe/config/config.php:631 7upframe/config/config.php:660
+#: 7upframe/config/config.php:956 7upframe/config/config.php:1034
+#: 7upframe/controler/Woocommerce_Control.php:740
+#: 7upframe/element/vc-banner.php:234 7upframe/element/vc-logo-header.php:95
+#: 7upframe/element/vc-menu.php:307 7upframe/element/vc-product.php:1052
+#: 7upframe/element/vc-top-bar.php:194
+msgid "Right"
+msgstr ""
+
+#: 7upframe/config/config.php:579
+msgid "Sidebar select display in blog"
+msgstr ""
+
+#: 7upframe/config/config.php:587
+msgid "Sidebar Page"
+msgstr ""
+
+#: 7upframe/config/config.php:608
+msgid "Sidebar select display in page"
+msgstr ""
+
+#: 7upframe/config/config.php:616
+msgid "Sidebar Position on Page Archives:"
+msgstr ""
+
+#: 7upframe/config/config.php:637
+msgid "Sidebar select display in page Archives"
+msgstr ""
+
+#: 7upframe/config/config.php:645
+msgid "Sidebar Single Post"
+msgstr ""
+
+#: 7upframe/config/config.php:666
+msgid "Sidebar select display in single post"
+msgstr ""
+
+#: 7upframe/config/config.php:673
+msgid "Add SideBar"
+msgstr ""
+
+#: 7upframe/config/config.php:680
+msgid "Choose heading title widget"
+msgstr ""
+
+#: 7upframe/config/config.php:686 7upframe/config/config.php:763
+#: 7upframe/element/vc-logo-header.php:69 7upframe/element/vc-menu.php:369
+msgid "H1"
+msgstr ""
+
+#: 7upframe/config/config.php:690 7upframe/config/config.php:767
+#: 7upframe/element/vc-logo-header.php:70 7upframe/element/vc-menu.php:370
+msgid "H2"
+msgstr ""
+
+#: 7upframe/config/config.php:694 7upframe/config/config.php:771
+#: 7upframe/element/vc-logo-header.php:71 7upframe/element/vc-menu.php:371
+msgid "H3"
+msgstr ""
+
+#: 7upframe/config/config.php:698 7upframe/config/config.php:775
+#: 7upframe/element/vc-logo-header.php:72 7upframe/element/vc-menu.php:372
+msgid "H4"
+msgstr ""
+
+#: 7upframe/config/config.php:702 7upframe/config/config.php:779
+#: 7upframe/element/vc-logo-header.php:73 7upframe/element/vc-menu.php:373
+msgid "H5"
+msgstr ""
+
+#: 7upframe/config/config.php:706 7upframe/config/config.php:783
+#: 7upframe/element/vc-logo-header.php:74 7upframe/element/vc-menu.php:374
+msgid "H6"
+msgstr ""
+
+#: 7upframe/config/config.php:722
+msgid "Add Settings"
+msgstr ""
+
+#: 7upframe/config/config.php:729
+msgid "Choose Area to style"
+msgstr ""
+
+#: 7upframe/config/config.php:736
+msgid "Header"
+msgstr ""
+
+#: 7upframe/config/config.php:740
+msgid "Main Content"
+msgstr ""
+
+#: 7upframe/config/config.php:744
+msgid "Widget"
+msgstr ""
+
+#: 7upframe/config/config.php:748
+msgid "Footer"
+msgstr ""
+
+#: 7upframe/config/config.php:752
+msgid "Body"
+msgstr ""
+
+#: 7upframe/config/config.php:758
+msgid "Choose heading Area"
+msgstr ""
+
+#: 7upframe/config/config.php:787
+msgid "a"
+msgstr ""
+
+#: 7upframe/config/config.php:791
+msgid "p"
+msgstr ""
+
+#: 7upframe/config/config.php:795 7upframe/element/vc-menu.php:289
+#: 7upframe/element/vc-menu.php:417 7upframe/element/vc-top-bar.php:112
+msgid "All"
+msgstr ""
+
+#: 7upframe/config/config.php:801
+msgid "Add Style"
+msgstr ""
+
+#: 7upframe/config/config.php:809
+msgid "Add Google Fonts"
+msgstr ""
+
+#: 7upframe/config/config.php:819
+msgid " Shop Settings"
+msgstr ""
+
+#: 7upframe/config/config.php:825
+msgid "General product"
+msgstr ""
+
+#: 7upframe/config/config.php:830
+msgid "Post per page"
+msgstr ""
+
+#: 7upframe/config/config.php:834
+msgid "This allows you to change the number of products in shop page (Default 9 product)."
+msgstr ""
+
+#: 7upframe/config/config.php:840
+msgid "Enable new product"
+msgstr ""
+
+#: 7upframe/config/config.php:844 7upframe/element/vc-product.php:1019
+msgid "This allows you to control sticker display for products which are marked as NEW in wooCommerce."
+msgstr ""
+
+#: 7upframe/config/config.php:848 7upframe/element/vc-product.php:1024
+msgid "Number of days for new product"
+msgstr ""
+
+#: 7upframe/config/config.php:853 7upframe/element/vc-product.php:1033
+msgid "Specify the No of days before to be disaplay product as New (Default 10 days)."
+msgstr ""
+
+#: 7upframe/config/config.php:860
+msgid "Choose view way product"
+msgstr ""
+
+#: 7upframe/config/config.php:867
+msgid "Grid view"
+msgstr ""
+
+#: 7upframe/config/config.php:871
+msgid "List view"
+msgstr ""
+
+#: 7upframe/config/config.php:877
+msgid "Choose shop column"
+msgstr ""
+
+#: 7upframe/config/config.php:903
+msgid "List product"
+msgstr ""
+
+#: 7upframe/config/config.php:909 7upframe/config/config.php:987
+msgid "Show banner"
+msgstr ""
+
+#: 7upframe/config/config.php:913
+msgid "This allow you to show or hide Banner in list products"
+msgstr ""
+
+#: 7upframe/config/config.php:941
+msgid "Sidebar Position shop page"
+msgstr ""
+
+#: 7upframe/config/config.php:962
+msgid "Sidebar select shop page"
+msgstr ""
+
+#: 7upframe/config/config.php:966 7upframe/config/config.php:1044
+#: 7upframe/controler/Woocommerce_Control.php:749
+msgid "Choose one style of sidebar for WooCommerce page"
+msgstr ""
+
+#: 7upframe/config/config.php:981
+msgid "Product page"
+msgstr ""
+
+#: 7upframe/config/config.php:990
+msgid "This allow you to show or hide banner in detail products"
+msgstr ""
+
+#: 7upframe/config/config.php:1019
+#: 7upframe/controler/Woocommerce_Control.php:722
+msgid "Sidebar position product page"
+msgstr ""
+
+#: 7upframe/config/config.php:1040
+#: 7upframe/controler/Woocommerce_Control.php:746
+msgid "Sidebar select product page"
+msgstr ""
+
+#: 7upframe/config/config.php:1048
+msgid "Show share product"
+msgstr ""
+
+#: 7upframe/config/config.php:1051
+msgid "This allow you to show or hide box share in product detail"
+msgstr ""
+
+#: 7upframe/config/config.php:1056
+msgid "Gallery image style"
+msgstr ""
+
+#: 7upframe/config/config.php:1059
+#: 7upframe/controler/Woocommerce_Control.php:692
+msgid "This allows you to change the gallery style"
+msgstr ""
+
+#: 7upframe/config/config.php:1063
+#: 7upframe/controler/Woocommerce_Control.php:705
+msgid "Vertical"
+msgstr ""
+
+#: 7upframe/config/config.php:1067
+#: 7upframe/controler/Woocommerce_Control.php:701
+msgid "Horizontal"
+msgstr ""
+
+#: 7upframe/config/config.php:1074
+msgid "Custom image size product (Default 800x800)"
+msgstr ""
+
+#: 7upframe/config/config.php:1082
+msgid "Show related product"
+msgstr ""
+
+#: 7upframe/config/config.php:1085
+msgid "This allow you to show or hide related product in product detail"
+msgstr ""
+
+#: 7upframe/config/config.php:1091
+msgid "Title related product"
+msgstr ""
+
+#: 7upframe/config/config.php:1094
+msgid "This allows you to change the title related product."
+msgstr ""
+
+#: 7upframe/config/config.php:1099
+msgid "Number related product"
+msgstr ""
+
+#: 7upframe/config/config.php:1104
+msgid "Number product to show in related products box."
+msgstr ""
+
+#: 7upframe/config/config.php:1109
+msgid "Show Up-sells product"
+msgstr ""
+
+#: 7upframe/config/config.php:1112
+msgid "This allow you to show or hide Up-sells product in product detail"
+msgstr ""
+
+#: 7upframe/config/config.php:1118
+msgid "Title Up-sells product"
+msgstr ""
+
+#: 7upframe/config/config.php:1121
+msgid "This allows you to change the title Up-sells product."
+msgstr ""
+
+#: 7upframe/config/config.php:1129
+msgid "Catalog Mode"
+msgstr ""
+
+#: 7upframe/config/config.php:1134
+msgid "Enable WooCommerce Catalog Mode"
+msgstr ""
+
+#: 7upframe/config/config.php:1135
+msgid "This allows you enable Catalog Mode."
+msgstr ""
+
+#: 7upframe/config/config.php:1142 7upframe/config/config.php:1202
+msgid "Hide \"Add to cart\" button"
+msgstr ""
+
+#: 7upframe/config/config.php:1144
+msgid "Hide in product detail page."
+msgstr ""
+
+#: 7upframe/config/config.php:1151
+msgid "Custom button \"Add to cart\""
+msgstr ""
+
+#: 7upframe/config/config.php:1153
+msgid "Replace and edit button \"Add to cart\" in product detail"
+msgstr ""
+
+#: 7upframe/config/config.php:1160
+msgid "Button text"
+msgstr ""
+
+#: 7upframe/config/config.php:1162
+msgid "Show in product details page."
+msgstr ""
+
+#: 7upframe/config/config.php:1168
+msgid "URL protocol type"
+msgstr ""
+
+#: 7upframe/config/config.php:1170
+msgid "Specify the type of the URL."
+msgstr ""
+
+#: 7upframe/config/config.php:1176
+msgid "Generic URL"
+msgstr ""
+
+#: 7upframe/config/config.php:1180
+msgid "E-Mail address"
+msgstr ""
+
+#: 7upframe/config/config.php:1184
+msgid "Phone number"
+msgstr ""
+
+#: 7upframe/config/config.php:1188
+msgid "Skype contact"
+msgstr ""
+
+#: 7upframe/config/config.php:1194
+msgid "Link URL"
+msgstr ""
+
+#: 7upframe/config/config.php:1196
+msgid "Specify the type URL."
+msgstr ""
+
+#: 7upframe/config/config.php:1204
+msgid "Hide in other shop pages."
+msgstr ""
+
+#: 7upframe/config/config.php:1211
+msgid "Hide Price"
+msgstr ""
+
+#: 7upframe/config/config.php:1212
+msgid "Hide the price of products in your shop and replace it with a text."
+msgstr ""
+
+#: 7upframe/config/config.php:1220
+msgid "Alternative text"
+msgstr ""
+
+#: 7upframe/config/config.php:1221
+msgid "This text will replace price."
+msgstr ""
+
+#: 7upframe/config/config.php:1229
+msgid "Admin View"
+msgstr ""
+
+#: 7upframe/config/config.php:1230
+msgid "Enable Catalog Mode also for administrators."
+msgstr ""
+
+#: 7upframe/controler/BaseControl.php:274
+msgid "SideBar created by add sidebar in theme options."
+msgstr ""
+
+#: 7upframe/controler/Customize_Control.php:243
+msgid "background-repeat"
+msgstr ""
+
+#: 7upframe/controler/Customize_Control.php:244
+msgid "No Repeat"
+msgstr ""
+
+#: 7upframe/controler/Customize_Control.php:245
+msgid "Repeat All"
+msgstr ""
+
+#: 7upframe/controler/Customize_Control.php:246
+msgid "Repeat Horizontally"
+msgstr ""
+
+#: 7upframe/controler/Customize_Control.php:247
+msgid "Repeat Vertically"
+msgstr ""
+
+#: 7upframe/controler/Customize_Control.php:248
+#: 7upframe/controler/Customize_Control.php:254
+#: 7upframe/controler/Customize_Control.php:339
+#: 7upframe/controler/Customize_Control.php:348
+#: 7upframe/controler/Customize_Control.php:368
+msgid "Inherit"
+msgstr ""
+
+#: 7upframe/controler/Customize_Control.php:251
+msgid "background-attachment"
+msgstr ""
+
+#: 7upframe/controler/Customize_Control.php:252
+msgid "Fixed"
+msgstr ""
+
+#: 7upframe/controler/Customize_Control.php:253
+msgid "Scroll"
+msgstr ""
+
+#: 7upframe/controler/Customize_Control.php:257
+msgid "background-position"
+msgstr ""
+
+#: 7upframe/controler/Customize_Control.php:258
+msgid "Left Top"
+msgstr ""
+
+#: 7upframe/controler/Customize_Control.php:259
+msgid "Left Center"
+msgstr ""
+
+#: 7upframe/controler/Customize_Control.php:260
+msgid "Left Bottom"
+msgstr ""
+
+#: 7upframe/controler/Customize_Control.php:261
+msgid "Center Top"
+msgstr ""
+
+#: 7upframe/controler/Customize_Control.php:262
+msgid "Center Center"
+msgstr ""
+
+#: 7upframe/controler/Customize_Control.php:263
+msgid "Center Bottom"
+msgstr ""
+
+#: 7upframe/controler/Customize_Control.php:264
+msgid "Right Top"
+msgstr ""
+
+#: 7upframe/controler/Customize_Control.php:265
+msgid "Right Center"
+msgstr ""
+
+#: 7upframe/controler/Customize_Control.php:266
+msgid "Right Bottom"
+msgstr ""
+
+#: 7upframe/controler/Customize_Control.php:273
+#: 7upframe/controler/Customize_Control.php:274
+#: 7upframe/controler/Customize_Control.php:276
+msgid "Add Media"
+msgstr ""
+
+#: 7upframe/controler/Customize_Control.php:301
+msgid "Choose Color"
+msgstr ""
+
+#: 7upframe/controler/Customize_Control.php:305
+msgid "Font Family"
+msgstr ""
+
+#: 7upframe/controler/Customize_Control.php:307
+msgid "font-family"
+msgstr ""
+
+#: 7upframe/controler/Customize_Control.php:322
+msgid "Font Size"
+msgstr ""
+
+#: 7upframe/controler/Customize_Control.php:324
+msgid "font-size"
+msgstr ""
+
+#: 7upframe/controler/Customize_Control.php:333
+msgid "Font Style"
+msgstr ""
+
+#: 7upframe/controler/Customize_Control.php:335
+msgid "font-style"
+msgstr ""
+
+#: 7upframe/controler/Customize_Control.php:336
+#: 7upframe/controler/Customize_Control.php:346
+#: 7upframe/controler/Customize_Control.php:355
+msgid "Normal"
+msgstr ""
+
+#: 7upframe/controler/Customize_Control.php:337
+msgid "Italic"
+msgstr ""
+
+#: 7upframe/controler/Customize_Control.php:338
+msgid "Oblique"
+msgstr ""
+
+#: 7upframe/controler/Customize_Control.php:343
+msgid "Font Variant"
+msgstr ""
+
+#: 7upframe/controler/Customize_Control.php:345
+msgid "font-variant"
+msgstr ""
+
+#: 7upframe/controler/Customize_Control.php:347
+msgid "Small Caps"
+msgstr ""
+
+#: 7upframe/controler/Customize_Control.php:352
+msgid "Font Weight"
+msgstr ""
+
+#: 7upframe/controler/Customize_Control.php:354
+msgid "font-weight"
+msgstr ""
+
+#: 7upframe/controler/Customize_Control.php:356
+msgid "Bold"
+msgstr ""
+
+#: 7upframe/controler/Customize_Control.php:357
+msgid "Bolder"
+msgstr ""
+
+#: 7upframe/controler/Customize_Control.php:358
+msgid "Lighter"
+msgstr ""
+
+#: 7upframe/controler/Customize_Control.php:359
+msgid "100"
+msgstr ""
+
+#: 7upframe/controler/Customize_Control.php:360
+msgid "200"
+msgstr ""
+
+#: 7upframe/controler/Customize_Control.php:361
+msgid "300"
+msgstr ""
+
+#: 7upframe/controler/Customize_Control.php:362
+msgid "400"
+msgstr ""
+
+#: 7upframe/controler/Customize_Control.php:363
+msgid "500"
+msgstr ""
+
+#: 7upframe/controler/Customize_Control.php:364
+msgid "600"
+msgstr ""
+
+#: 7upframe/controler/Customize_Control.php:365
+msgid "700"
+msgstr ""
+
+#: 7upframe/controler/Customize_Control.php:366
+msgid "800"
+msgstr ""
+
+#: 7upframe/controler/Customize_Control.php:367
+msgid "900"
+msgstr ""
+
+#: 7upframe/controler/Customize_Control.php:372
+msgid "Letter Spacing"
+msgstr ""
+
+#: 7upframe/controler/Customize_Control.php:407
+msgid "Line Height"
+msgstr ""
+
+#: 7upframe/controler/Customize_Control.php:409
+msgid "line-height"
+msgstr ""
+
+#: 7upframe/controler/Customize_Control.php:418
+msgid "Text Decoration"
+msgstr ""
+
+#: 7upframe/controler/Customize_Control.php:438
+msgid "Text Transform"
+msgstr ""
+
+#: 7upframe/controler/Footer_Control.php:27
+#: 7upframe/controler/Header_Control.php:27
+#: 7upframe/controler/MegaItem_Control.php:27
+#: 7upframe/controler/PortfolioControl.php:27
+msgid "Add New"
+msgstr ""
+
+#: 7upframe/controler/Footer_Control.php:28
+msgid "Add New Footer"
+msgstr ""
+
+#: 7upframe/controler/Footer_Control.php:29
+msgid "New Footer"
+msgstr ""
+
+#: 7upframe/controler/Footer_Control.php:30
+msgid "Edit Footer"
+msgstr ""
+
+#: 7upframe/controler/Footer_Control.php:31
+msgid "View Footer"
+msgstr ""
+
+#: 7upframe/controler/Footer_Control.php:32
+msgid "All Footer"
+msgstr ""
+
+#: 7upframe/controler/Footer_Control.php:33
+msgid "Search Footer"
+msgstr ""
+
+#: 7upframe/controler/Footer_Control.php:34
+msgid "Parent Footer:"
+msgstr ""
+
+#: 7upframe/controler/Footer_Control.php:35
+msgid "No Footer found."
+msgstr ""
+
+#: 7upframe/controler/Footer_Control.php:36
+msgid "No Footer found in Trash."
+msgstr ""
+
+#: 7upframe/controler/Header_Control.php:28
+msgid "Add New Header"
+msgstr ""
+
+#: 7upframe/controler/Header_Control.php:29
+msgid "New Header"
+msgstr ""
+
+#: 7upframe/controler/Header_Control.php:30
+msgid "Edit Header"
+msgstr ""
+
+#: 7upframe/controler/Header_Control.php:31
+msgid "View Header"
+msgstr ""
+
+#: 7upframe/controler/Header_Control.php:32
+msgid "All Header"
+msgstr ""
+
+#: 7upframe/controler/Header_Control.php:33
+msgid "Search Header"
+msgstr ""
+
+#: 7upframe/controler/Header_Control.php:34
+msgid "Parent Header:"
+msgstr ""
+
+#: 7upframe/controler/Header_Control.php:35
+msgid "No Header found."
+msgstr ""
+
+#: 7upframe/controler/Header_Control.php:36
+msgid "No Header found in Trash."
+msgstr ""
+
+#: 7upframe/controler/MegaItem_Control.php:23
+#: 7upframe/controler/MegaItem_Control.php:24
+#: 7upframe/controler/MegaItem_Control.php:25
+#: 7upframe/controler/MegaItem_Control.php:26
+msgid "Mega Menu"
+msgstr ""
+
+#: 7upframe/controler/MegaItem_Control.php:28
+msgid "Add New Mega Menu"
+msgstr ""
+
+#: 7upframe/controler/MegaItem_Control.php:29
+msgid "New Mega Menu"
+msgstr ""
+
+#: 7upframe/controler/MegaItem_Control.php:30
+msgid "Edit Mega Menu"
+msgstr ""
+
+#: 7upframe/controler/MegaItem_Control.php:31
+msgid "View Mega Menu"
+msgstr ""
+
+#: 7upframe/controler/MegaItem_Control.php:32
+msgid "All Mega Menu"
+msgstr ""
+
+#: 7upframe/controler/MegaItem_Control.php:33
+msgid "Search Mega Menu"
+msgstr ""
+
+#: 7upframe/controler/MegaItem_Control.php:34
+msgid "Parent Mega Menu:"
+msgstr ""
+
+#: 7upframe/controler/MegaItem_Control.php:35
+msgid "No Mega Menu found."
+msgstr ""
+
+#: 7upframe/controler/MegaItem_Control.php:36
+msgid "No Mega Menu found in Trash."
+msgstr ""
+
+#: 7upframe/controler/Metabox_Control.php:15
+msgid "Post Settings"
+msgstr ""
+
+#: 7upframe/controler/Metabox_Control.php:22
+msgid "Format setting"
+msgstr ""
+
+#: 7upframe/controler/Metabox_Control.php:28
+msgid "Add Gallery"
+msgstr ""
+
+#: 7upframe/controler/Metabox_Control.php:30
+msgid "Create gallery image for gallery format"
+msgstr ""
+
+#: 7upframe/controler/Metabox_Control.php:34
+msgid "Link Media"
+msgstr ""
+
+#: 7upframe/controler/Metabox_Control.php:36
+msgid "Get link video(audio) in youtube, vimeo, soundclound, share host,... then input a link media. Note: Share host: there are 3 supported video formats mp4, ogg, webm "
+msgstr ""
+
+#: 7upframe/controler/Metabox_Control.php:41
+#: 7upframe/controler/Metabox_Control.php:227
+#: 7upframe/controler/Woocommerce_Control.php:773
+msgid "Banner setting"
+msgstr ""
+
+#: 7upframe/controler/Metabox_Control.php:51
+#: 7upframe/controler/Metabox_Control.php:118
+msgid "-- User in theme option --"
+msgstr ""
+
+#: 7upframe/controler/Metabox_Control.php:55
+#: 7upframe/controler/Metabox_Control.php:122
+#: 7upframe/controler/Metabox_Control.php:284
+#: 7upframe/controler/Woocommerce_Control.php:592
+#: 7upframe/controler/Woocommerce_Control.php:625
+#: 7upframe/controler/Woocommerce_Control.php:793
+#: 7upframe/element/vc-blog.php:185 7upframe/element/vc-blog.php:265
+#: 7upframe/element/vc-blog.php:304 7upframe/element/vc-blog.php:340
+#: 7upframe/element/vc-carousel-slider.php:60
+#: 7upframe/element/vc-carousel-slider.php:71
+#: 7upframe/element/vc-carousel-slider.php:83 7upframe/element/vc-menu.php:248
+#: 7upframe/element/vc-menu.php:264 7upframe/element/vc-menu.php:330
+#: 7upframe/element/vc-menu.php:402 7upframe/element/vc-menu.php:444
+#: 7upframe/element/vc-menu.php:461 7upframe/element/vc-product.php:739
+#: 7upframe/element/vc-product.php:752 7upframe/element/vc-product.php:829
+#: 7upframe/element/vc-product.php:888 7upframe/element/vc-product.php:904
+#: 7upframe/element/vc-product.php:921 7upframe/element/vc-product.php:1005
+#: 7upframe/element/vc-product.php:1017 7upframe/element/vc-product.php:1041
+#: 7upframe/element/vc-top-bar.php:97 7upframe/element/vc-top-bar.php:137
+msgid "On"
+msgstr ""
+
+#: 7upframe/controler/Metabox_Control.php:59
+#: 7upframe/controler/Metabox_Control.php:126
+#: 7upframe/controler/Metabox_Control.php:280
+#: 7upframe/controler/Woocommerce_Control.php:591
+#: 7upframe/controler/Woocommerce_Control.php:624
+#: 7upframe/controler/Woocommerce_Control.php:789
+#: 7upframe/element/vc-blog.php:184 7upframe/element/vc-blog.php:264
+#: 7upframe/element/vc-blog.php:303 7upframe/element/vc-blog.php:341
+#: 7upframe/element/vc-carousel-slider.php:61
+#: 7upframe/element/vc-carousel-slider.php:72
+#: 7upframe/element/vc-carousel-slider.php:82 7upframe/element/vc-menu.php:247
+#: 7upframe/element/vc-menu.php:265 7upframe/element/vc-menu.php:329
+#: 7upframe/element/vc-menu.php:403 7upframe/element/vc-menu.php:445
+#: 7upframe/element/vc-menu.php:460 7upframe/element/vc-product.php:738
+#: 7upframe/element/vc-product.php:751 7upframe/element/vc-product.php:828
+#: 7upframe/element/vc-product.php:889 7upframe/element/vc-product.php:905
+#: 7upframe/element/vc-product.php:920 7upframe/element/vc-product.php:1006
+#: 7upframe/element/vc-product.php:1016 7upframe/element/vc-product.php:1042
+#: 7upframe/element/vc-top-bar.php:98 7upframe/element/vc-top-bar.php:138
+msgid "Off"
+msgstr ""
+
+#: 7upframe/controler/Metabox_Control.php:75
+msgid "Title banner"
+msgstr ""
+
+#: 7upframe/controler/Metabox_Control.php:76
+msgid "Enter title."
+msgstr ""
+
+#: 7upframe/controler/Metabox_Control.php:83
+msgid "Description banner"
+msgstr ""
+
+#: 7upframe/controler/Metabox_Control.php:84
+msgid "Enter description."
+msgstr ""
+
+#: 7upframe/controler/Metabox_Control.php:91
+msgid "Layout setting"
+msgstr ""
+
+#: 7upframe/controler/Metabox_Control.php:97
+#: 7upframe/controler/Metabox_Control.php:182
+msgid "Include page to Header"
+msgstr ""
+
+#: 7upframe/controler/Metabox_Control.php:105
+#: 7upframe/controler/Metabox_Control.php:190
+msgid "Include page to Footer"
+msgstr ""
+
+#: 7upframe/controler/Metabox_Control.php:135
+msgid "Sidebar position "
+msgstr ""
+
+#: 7upframe/controler/Metabox_Control.php:140
+#: 7upframe/function/function.php:180
+msgid "--Select--"
+msgstr ""
+
+#: 7upframe/controler/Metabox_Control.php:148
+msgid "Left sidebar"
+msgstr ""
+
+#: 7upframe/controler/Metabox_Control.php:152
+msgid "Right sidebar"
+msgstr ""
+
+#: 7upframe/controler/Metabox_Control.php:160
+msgid "Selects sidebar"
+msgstr ""
+
+#: 7upframe/controler/Metabox_Control.php:168
+msgid "Page Settings"
+msgstr ""
+
+#: 7upframe/controler/Metabox_Control.php:175
+#: 7upframe/controler/Woocommerce_Control.php:683
+msgid "General setting"
+msgstr ""
+
+#: 7upframe/controler/Metabox_Control.php:198
+msgid "Background boxed"
+msgstr ""
+
+#: 7upframe/controler/Metabox_Control.php:206
+msgid "Main color (Default in theme option)"
+msgstr ""
+
+#: 7upframe/controler/Metabox_Control.php:208
+msgid "This allow you custom color main of page."
+msgstr ""
+
+#: 7upframe/controler/Metabox_Control.php:213
+msgid "Hide title page"
+msgstr ""
+
+#: 7upframe/controler/Metabox_Control.php:267
+msgid "Header Settings"
+msgstr ""
+
+#: 7upframe/controler/Metabox_Control.php:275
+msgid "Header fix top"
+msgstr ""
+
+#: 7upframe/controler/Metabox_Control.php:291
+msgid "Add class header"
+msgstr ""
+
+#: 7upframe/controler/Metabox_Control.php:294
+msgid "Add a class name and refer to it in custom CSS."
+msgstr ""
+
+#: 7upframe/controler/Option_Tree_Control.php:83
+msgid "Theme Option"
+msgstr ""
+
+#: 7upframe/controler/Option_Tree_Control.php:114
+msgid "Version %s"
+msgstr ""
+
+#: 7upframe/controler/PortfolioControl.php:23
+#: 7upframe/controler/PortfolioControl.php:24
+#: 7upframe/controler/PortfolioControl.php:25
+#: 7upframe/controler/PortfolioControl.php:26
+msgid "Portfolio"
+msgstr ""
+
+#: 7upframe/controler/PortfolioControl.php:28
+msgid "Add New Portfolio"
+msgstr ""
+
+#: 7upframe/controler/PortfolioControl.php:29
+msgid "New Portfolio"
+msgstr ""
+
+#: 7upframe/controler/PortfolioControl.php:30
+msgid "Edit Portfolio"
+msgstr ""
+
+#: 7upframe/controler/PortfolioControl.php:31
+msgid "View Portfolio"
+msgstr ""
+
+#: 7upframe/controler/PortfolioControl.php:32
+msgid "All Portfolio"
+msgstr ""
+
+#: 7upframe/controler/PortfolioControl.php:33
+msgid "Search Portfolio"
+msgstr ""
+
+#: 7upframe/controler/PortfolioControl.php:34
+msgid "Parent Portfolio:"
+msgstr ""
+
+#: 7upframe/controler/PortfolioControl.php:35
+msgid "No Portfolio found."
+msgstr ""
+
+#: 7upframe/controler/PortfolioControl.php:36
+msgid "No Portfolio found in Trash."
+msgstr ""
+
+#: 7upframe/controler/PortfolioControl.php:64
+msgid "Portfolio Category"
+msgstr ""
+
+#: 7upframe/controler/PortfolioControl.php:75
+msgid "Portfolio Option"
+msgstr ""
+
+#: 7upframe/controler/PortfolioControl.php:83
+msgid "Choose icon"
+msgstr ""
+
+#: 7upframe/controler/PortfolioControl.php:84
+msgid "Choose font awesome icon"
+msgstr ""
+
+#: 7upframe/controler/PortfolioControl.php:90
+msgid "Special Featured Image"
+msgstr ""
+
+#: 7upframe/controler/PortfolioControl.php:91
+msgid "Upload Image"
+msgstr ""
+
+#: 7upframe/controler/Post_like_Control.php:182
+#: 7upframe/controler/Post_like_Control.php:233
+msgid "You Like:"
+msgstr ""
+
+#: 7upframe/controler/Post_like_Control.php:206
+msgid "You don't like anything yet."
+msgstr ""
+
+#: 7upframe/controler/Post_like_Control.php:272
+msgid "Today's Most Popular Posts"
+msgstr ""
+
+#: 7upframe/controler/Post_like_Control.php:311
+msgid "This Month's Most Popular Posts"
+msgstr ""
+
+#: 7upframe/controler/Post_like_Control.php:350
+msgid "This Week's Most Popular Posts"
+msgstr ""
+
+#: 7upframe/controler/Post_like_Control.php:369
+msgid "Most Popular Posts"
+msgstr ""
+
+#: 7upframe/controler/Visual_composer_Control.php:75
+msgid "Zoom in demo"
+msgstr ""
+
+#: 7upframe/controler/Woocommerce_Control.php:260
+msgid "Facebook"
+msgstr ""
+
+#: 7upframe/controler/Woocommerce_Control.php:261 single.php:41
+msgid "Twitter"
+msgstr ""
+
+#: 7upframe/controler/Woocommerce_Control.php:262 single.php:50
+msgid "Pinterest"
+msgstr ""
+
+#: 7upframe/controler/Woocommerce_Control.php:263
+msgid "Google +"
+msgstr ""
+
+#: 7upframe/controler/Woocommerce_Control.php:346
+#: 7upframe/controler/Woocommerce_Control.php:405
+#: 7upframe/controler/Woocommerce_Control.php:452
+#: 7upframe/controler/Woocommerce_Control.php:464
+#: 7upframe/controler/Woocommerce_Control.php:483
+msgid "Color"
+msgstr ""
+
+#: 7upframe/controler/Woocommerce_Control.php:347
+#: 7upframe/controler/Woocommerce_Control.php:406
+#: 7upframe/controler/Woocommerce_Control.php:453
+#: 7upframe/controler/Woocommerce_Control.php:465
+#: 7upframe/controler/Woocommerce_Control.php:484
+#: 7upframe/element/vc-service.php:96 7upframe/element/vc-testimonials.php:52
+#: 7upframe/element/vc_info_box.php:175 7upframe/function/function.php:1394
+msgid "Image"
+msgstr ""
+
+#: 7upframe/controler/Woocommerce_Control.php:348
+#: 7upframe/controler/Woocommerce_Control.php:407
+#: 7upframe/controler/Woocommerce_Control.php:454
+#: 7upframe/controler/Woocommerce_Control.php:466
+#: 7upframe/controler/Woocommerce_Control.php:485
+msgid "Label"
+msgstr ""
+
+#: 7upframe/controler/Woocommerce_Control.php:359
+msgid "Select terms"
+msgstr ""
+
+#: 7upframe/controler/Woocommerce_Control.php:370
+msgid "Select all"
+msgstr ""
+
+#: 7upframe/controler/Woocommerce_Control.php:371
+msgid "Select none"
+msgstr ""
+
+#: 7upframe/controler/Woocommerce_Control.php:372
+msgid "Add new"
+msgstr ""
+
+#: 7upframe/controler/Woocommerce_Control.php:590
+msgid "---User in theme settings---"
+msgstr ""
+
+#: 7upframe/controler/Woocommerce_Control.php:598
+msgid "Item 1"
+msgstr ""
+
+#: 7upframe/controler/Woocommerce_Control.php:600
+msgid "Image banner"
+msgstr ""
+
+#: 7upframe/controler/Woocommerce_Control.php:607
+#: 7upframe/controler/Woocommerce_Control.php:650
+msgid "Banner info"
+msgstr ""
+
+#: 7upframe/controler/Woocommerce_Control.php:612
+#: 7upframe/controler/Woocommerce_Control.php:658
+msgid "Add item slider"
+msgstr ""
+
+#: 7upframe/controler/Woocommerce_Control.php:623
+msgid "---Theme settings---"
+msgstr ""
+
+#: 7upframe/controler/Woocommerce_Control.php:630
+msgid "List banner item"
+msgstr ""
+
+#: 7upframe/controler/Woocommerce_Control.php:638
+msgid "Item "
+msgstr ""
+
+#: 7upframe/controler/Woocommerce_Control.php:677
+msgid "Shop Options"
+msgstr ""
+
+#: 7upframe/controler/Woocommerce_Control.php:689
+msgid "Gallery image style "
+msgstr ""
+
+#: 7upframe/controler/Woocommerce_Control.php:697
+#: 7upframe/controler/Woocommerce_Control.php:728
+#: 7upframe/controler/Woocommerce_Control.php:785
+msgid "--- Theme option ---"
+msgstr ""
+
+#: 7upframe/controler/Woocommerce_Control.php:711
+msgid "Product trending"
+msgstr ""
+
+#: 7upframe/controler/Woocommerce_Control.php:715
+msgid "Trending now"
+msgstr ""
+
+#: 7upframe/controler/Woocommerce_Control.php:724
+msgid "Left, or Right, or Center (Default get in Theme Option)"
+msgstr ""
+
+#: 7upframe/controler/Woocommerce_Control.php:754
+msgid "Add Tab"
+msgstr ""
+
+#: 7upframe/controler/Woocommerce_Control.php:759
+#: 7upframe/element/vc-testimonials.php:70
+msgid "Content"
+msgstr ""
+
+#: 7upframe/controler/Woocommerce_Control.php:764
+msgid "Priority (Default 50)"
+msgstr ""
+
+#: 7upframe/element/vc-banner.php:62
+msgid "SV Banner"
+msgstr ""
+
+#: 7upframe/element/vc-banner.php:70 7upframe/element/vc-service.php:53
+#: 7upframe/element/vc_info_box.php:69
+msgid "Style"
+msgstr ""
+
+#: 7upframe/element/vc-banner.php:73 7upframe/element/vc-blog.php:153
+#: 7upframe/element/vc-menu.php:236 7upframe/element/vc-top-bar.php:61
+msgid "Style 1 (Default)"
+msgstr ""
+
+#: 7upframe/element/vc-banner.php:74 7upframe/element/vc-menu.php:237
+#: 7upframe/element/vc-product.php:420 7upframe/element/vc-product.php:449
+#: 7upframe/element/vc-service.php:57 7upframe/element/vc-top-bar.php:62
+msgid "Style 2"
+msgstr ""
+
+#: 7upframe/element/vc-banner.php:75 7upframe/element/vc-menu.php:238
+#: 7upframe/element/vc-product.php:421 7upframe/element/vc-product.php:450
+#: 7upframe/element/vc-service.php:58 7upframe/element/vc-top-bar.php:63
+msgid "Style 3"
+msgstr ""
+
+#: 7upframe/element/vc-banner.php:76 7upframe/element/vc-product.php:422
+#: 7upframe/element/vc-product.php:451 7upframe/element/vc-service.php:59
+#: 7upframe/element/vc-top-bar.php:64
+msgid "Style 4"
+msgstr ""
+
+#: 7upframe/element/vc-banner.php:77 7upframe/element/vc-product.php:423
+#: 7upframe/element/vc-product.php:452
+msgid "Style 5"
+msgstr ""
+
+#: 7upframe/element/vc-banner.php:78
+msgid "Style 6 (video)"
+msgstr ""
+
+#: 7upframe/element/vc-banner.php:91
+msgid "Image* (Required)"
+msgstr ""
+
+#: 7upframe/element/vc-banner.php:98 7upframe/element/vc-intagram.php:110
+#: 7upframe/element/vc-item-banner.php:54 7upframe/element/vc-service.php:107
+#: 7upframe/element/vc-testimonials.php:60 7upframe/element/vc_info_box.php:186
+msgid "Add link image"
+msgstr ""
+
+#: 7upframe/element/vc-banner.php:104
+msgid "Add Link/URL video"
+msgstr ""
+
+#: 7upframe/element/vc-banner.php:106
+msgid "Get Link/URL video in youtube or Link/URL share host,... then input a link media. Note: Share host: there are 3 supported video formats mp4, ogg, webm."
+msgstr ""
+
+#: 7upframe/element/vc-banner.php:114 7upframe/element/vc_info_box.php:241
+msgid "Content banner"
+msgstr ""
+
+#: 7upframe/element/vc-banner.php:117 7upframe/element/vc-product.php:493
+#: 7upframe/element/vc-product.php:1109 7upframe/element/vc-product.php:1144
+#: 7upframe/element/vc-service.php:119 7upframe/element/vc-testimonials.php:72
+#: 7upframe/element/vc_info_box.php:124 7upframe/element/vc_info_box.php:135
+#: 7upframe/element/vc_info_box.php:145 7upframe/element/vc_info_box.php:156
+#: 7upframe/element/vc_info_box.php:167 7upframe/element/vc_info_box.php:215
+#: 7upframe/element/vc_info_box.php:222 7upframe/element/vc_info_box.php:228
+#: 7upframe/element/vc_info_box.php:243 7upframe/element/vc_mincart.php:45
+msgid "Enter text."
+msgstr ""
+
+#: 7upframe/element/vc-banner.php:122
+#: 7upframe/element/vc-carousel-slider.php:102
+#: 7upframe/element/vc-countdown.php:50 7upframe/element/vc-google-map.php:114
+#: 7upframe/element/vc-item-banner.php:73
+#: 7upframe/element/vc-logo-header.php:100 7upframe/element/vc-menu.php:317
+#: 7upframe/element/vc-parent.php:39 7upframe/element/vc-product.php:783
+#: 7upframe/element/vc-service.php:123 7upframe/element/vc-social.php:69
+#: 7upframe/element/vc-testimonials.php:87 7upframe/element/vc-top-bar.php:216
+#: 7upframe/element/vc_info_box.php:261
+msgid "Extra class name"
+msgstr ""
+
+#: 7upframe/element/vc-banner.php:124 7upframe/element/vc-blog.php:277
+#: 7upframe/element/vc-carousel-slider.php:104
+#: 7upframe/element/vc-countdown.php:52 7upframe/element/vc-google-map.php:116
+#: 7upframe/element/vc-item-banner.php:75
+#: 7upframe/element/vc-logo-header.php:102 7upframe/element/vc-menu.php:319
+#: 7upframe/element/vc-parent.php:41 7upframe/element/vc-product.php:785
+#: 7upframe/element/vc-service.php:125 7upframe/element/vc-social.php:71
+#: 7upframe/element/vc-testimonials.php:89 7upframe/element/vc-top-bar.php:218
+#: 7upframe/element/vc_info_box.php:263
+#: 7upframe/widget/wg-fiter-product.php:126
+msgid "Style particular content element differently - add a class name and refer to it in custom CSS."
+msgstr ""
+
+#: 7upframe/element/vc-banner.php:128 7upframe/element/vc_info_box.php:267
+msgid "Image animation"
+msgstr ""
+
+#: 7upframe/element/vc-banner.php:129 7upframe/element/vc-banner.php:143
+#: 7upframe/element/vc-banner.php:154 7upframe/element/vc-banner.php:176
+#: 7upframe/element/vc-blog.php:282 7upframe/element/vc-blog.php:299
+#: 7upframe/element/vc-blog.php:313 7upframe/element/vc-blog.php:326
+#: 7upframe/element/vc-blog.php:336 7upframe/element/vc-blog.php:351
+#: 7upframe/element/vc-blog.php:365 7upframe/element/vc-blog.php:372
+#: 7upframe/element/vc-carousel-slider.php:110
+#: 7upframe/element/vc-intagram.php:153 7upframe/element/vc-menu.php:519
+#: 7upframe/element/vc-parent.php:47 7upframe/element/vc-product.php:798
+#: 7upframe/element/vc-product.php:808 7upframe/element/vc-product.php:824
+#: 7upframe/element/vc-product.php:840 7upframe/element/vc-product.php:854
+#: 7upframe/element/vc-product.php:880 7upframe/element/vc-product.php:896
+#: 7upframe/element/vc-product.php:912 7upframe/element/vc-product.php:928
+#: 7upframe/element/vc-product.php:946 7upframe/element/vc-product.php:958
+#: 7upframe/element/vc-product.php:972 7upframe/element/vc-product.php:984
+#: 7upframe/element/vc-product.php:1001 7upframe/element/vc-product.php:1012
+#: 7upframe/element/vc-product.php:1023 7upframe/element/vc-product.php:1038
+#: 7upframe/element/vc-product.php:1048 7upframe/element/vc-product.php:1063
+#: 7upframe/element/vc-product.php:1072 7upframe/element/vc-service.php:130
+#: 7upframe/element/vc-service.php:146 7upframe/element/vc-service.php:160
+#: 7upframe/element/vc-testimonials.php:94 7upframe/element/vc_info_box.php:268
+#: 7upframe/element/vc_info_box.php:286 7upframe/element/vc_info_box.php:297
+msgid "Design Option"
+msgstr ""
+
+#: 7upframe/element/vc-banner.php:131 7upframe/element/vc_info_box.php:270
+msgid "Select animation."
+msgstr ""
+
+#: 7upframe/element/vc-banner.php:133
+#: 7upframe/element/vc-carousel-slider.php:93
+#: 7upframe/element/vc-intagram.php:159 7upframe/element/vc-product.php:600
+#: 7upframe/element/vc-product.php:932 7upframe/element/vc-service.php:137
+#: 7upframe/element/vc_info_box.php:276 7upframe/function/function.php:245
+#: 7upframe/function/function.php:286 7upframe/function/function.php:345
+msgid "None"
+msgstr ""
+
+#: 7upframe/element/vc-banner.php:134 7upframe/element/vc_info_box.php:277
+msgid "Zoom image"
+msgstr ""
+
+#: 7upframe/element/vc-banner.php:135 7upframe/element/vc-product.php:936
+#: 7upframe/element/vc_info_box.php:278
+msgid "Fade out in"
+msgstr ""
+
+#: 7upframe/element/vc-banner.php:136 7upframe/element/vc-product.php:935
+#: 7upframe/element/vc_info_box.php:279
+msgid "Zoom rotate"
+msgstr ""
+
+#: 7upframe/element/vc-banner.php:137 7upframe/element/vc_info_box.php:280
+msgid "Zoom and Fade out in"
+msgstr ""
+
+#: 7upframe/element/vc-banner.php:142 7upframe/element/vc_info_box.php:285
+msgid "Overlay image"
+msgstr ""
+
+#: 7upframe/element/vc-banner.php:152
+msgid "Banner animation"
+msgstr ""
+
+#: 7upframe/element/vc-banner.php:162
+msgid "Top to bottom"
+msgstr ""
+
+#: 7upframe/element/vc-banner.php:163
+msgid "Bottom to top"
+msgstr ""
+
+#: 7upframe/element/vc-banner.php:164
+msgid "Left to right"
+msgstr ""
+
+#: 7upframe/element/vc-banner.php:165
+msgid "Right to left"
+msgstr ""
+
+#: 7upframe/element/vc-banner.php:166
+msgid "Appear from center"
+msgstr ""
+
+#: 7upframe/element/vc-banner.php:171
+msgid "Select type of animation for element to be animated when it (enters) the browsers viewport (Note: works only in modern browsers)."
+msgstr ""
+
+#: 7upframe/element/vc-banner.php:175
+msgid "Image size banner"
+msgstr ""
+
+#: 7upframe/element/vc-banner.php:183 7upframe/element/vc-banner.php:197
+#: 7upframe/element/vc-banner.php:209 7upframe/element/vc-banner.php:220
+msgid "Box info"
+msgstr ""
+
+#: 7upframe/element/vc-banner.php:184
+msgid "Show box info banner"
+msgstr ""
+
+#: 7upframe/element/vc-banner.php:187 7upframe/element/vc-blog.php:356
+msgid "Hide"
+msgstr ""
+
+#: 7upframe/element/vc-banner.php:188 7upframe/element/vc-blog.php:355
+msgid "Show"
+msgstr ""
+
+#: 7upframe/element/vc-banner.php:198
+msgid "Add icon"
+msgstr ""
+
+#: 7upframe/element/vc-banner.php:201 7upframe/element/vc-menu.php:493
+#: 7upframe/element/vc-service.php:71 7upframe/element/vc-top-bar.php:168
+#: 7upframe/element/vc_info_box.php:96
+msgid "Select icon"
+msgstr ""
+
+#: 7upframe/element/vc-banner.php:210
+msgid "Info"
+msgstr ""
+
+#: 7upframe/element/vc-banner.php:221
+msgid "Change the box diameter"
+msgstr ""
+
+#: 7upframe/element/vc-banner.php:223
+msgid "Default: 200px"
+msgstr ""
+
+#: 7upframe/element/vc-banner.php:225 7upframe/element/vc-banner.php:286
+msgid "px"
+msgstr ""
+
+#: 7upframe/element/vc-banner.php:233 7upframe/element/vc-banner.php:245
+#: 7upframe/element/vc-banner.php:257 7upframe/element/vc-banner.php:269
+#: 7upframe/element/vc-banner.php:281
+msgid "Change the info position"
+msgstr ""
+
+#: 7upframe/element/vc-banner.php:237 7upframe/element/vc-banner.php:249
+#: 7upframe/element/vc-banner.php:261 7upframe/element/vc-banner.php:273
+msgid "Documentation on position in CSS"
+msgstr ""
+
+#: 7upframe/element/vc-banner.php:258
+msgid "Top"
+msgstr ""
+
+#: 7upframe/element/vc-banner.php:270
+msgid "Bottom"
+msgstr ""
+
+#: 7upframe/element/vc-banner.php:282
+msgid "Height info"
+msgstr ""
+
+#: 7upframe/element/vc-blog.php:110
+msgid "Load more"
+msgstr ""
+
+#: 7upframe/element/vc-blog.php:141
+msgid "SV Blog"
+msgstr ""
+
+#: 7upframe/element/vc-blog.php:151
+msgid "Select style blog."
+msgstr ""
+
+#: 7upframe/element/vc-blog.php:154
+msgid "Style 2 (Classic)"
+msgstr ""
+
+#: 7upframe/element/vc-blog.php:155
+msgid "Style 3 (Classic)"
+msgstr ""
+
+#: 7upframe/element/vc-blog.php:156
+msgid "Style 4 (Classic)"
+msgstr ""
+
+#: 7upframe/element/vc-blog.php:157 7upframe/element/vc-product.php:400
+msgid "Style 5 (Slider)"
+msgstr ""
+
+#: 7upframe/element/vc-blog.php:158
+msgid "Style 6 (slider)"
+msgstr ""
+
+#: 7upframe/element/vc-blog.php:159 7upframe/element/vc-product.php:402
+msgid "Style 7 (list)"
+msgstr ""
+
+#: 7upframe/element/vc-blog.php:171 7upframe/element/vc-product.php:473
+msgid "Title element"
+msgstr ""
+
+#: 7upframe/element/vc-blog.php:180
+msgid "Use ID post"
+msgstr ""
+
+#: 7upframe/element/vc-blog.php:190 7upframe/element/vc-menu.php:290
+#: 7upframe/element/vc-menu.php:418 7upframe/element/vc-top-bar.php:113
+msgid "Posts"
+msgstr ""
+
+#: 7upframe/element/vc-blog.php:200
+msgid "Enter List of Posts"
+msgstr ""
+
+#: 7upframe/element/vc-blog.php:208
+msgid "Number post"
+msgstr ""
+
+#: 7upframe/element/vc-blog.php:214
+msgid "Post"
+msgstr ""
+
+#: 7upframe/element/vc-blog.php:218
+msgid "Categories"
+msgstr ""
+
+#: 7upframe/element/vc-blog.php:230 7upframe/element/vc-product.php:563
+#: 7upframe/element/vc-product.php:719
+msgid "Order"
+msgstr ""
+
+#: 7upframe/element/vc-blog.php:233
+msgid "Desc"
+msgstr ""
+
+#: 7upframe/element/vc-blog.php:234
+msgid "Asc"
+msgstr ""
+
+#: 7upframe/element/vc-blog.php:241
+msgid "Order By"
+msgstr ""
+
+#: 7upframe/element/vc-blog.php:254 7upframe/element/vc-product.php:961
+#: 7upframe/element/vc-product.php:975
+msgid "word"
+msgstr ""
+
+#: 7upframe/element/vc-blog.php:260
+msgid "Enable Pagination"
+msgstr ""
+
+#: 7upframe/element/vc-blog.php:275
+msgid "Extra Class Name"
+msgstr ""
+
+#: 7upframe/element/vc-blog.php:283 7upframe/element/vc-product.php:806
+msgid "Column layout"
+msgstr ""
+
+#: 7upframe/element/vc-blog.php:286
+msgid "Columns 1"
+msgstr ""
+
+#: 7upframe/element/vc-blog.php:287
+msgid "Columns 2"
+msgstr ""
+
+#: 7upframe/element/vc-blog.php:288
+msgid "Columns 3"
+msgstr ""
+
+#: 7upframe/element/vc-blog.php:289
+msgid "Columns 4"
+msgstr ""
+
+#: 7upframe/element/vc-blog.php:300
+msgid "Pagination, using Loadmore Ajax button."
+msgstr ""
+
+#: 7upframe/element/vc-blog.php:314
+msgid "Add button view all ."
+msgstr ""
+
+#: 7upframe/element/vc-blog.php:323 7upframe/element/vc-carousel-slider.php:49
+#: 7upframe/element/vc-product.php:841
+msgid "Custom number item by device (Structure: [\"Width of device (unit: px)\",\"Number item\"])"
+msgstr ""
+
+#: 7upframe/element/vc-blog.php:327 7upframe/element/vc-carousel-slider.php:53
+#: 7upframe/element/vc-product.php:848
+msgid "EX: [0,2],[480,3],[768,4],[990,5],[1200,6]"
+msgstr ""
+
+#: 7upframe/element/vc-blog.php:337
+msgid "Autoplay slider"
+msgstr ""
+
+#: 7upframe/element/vc-blog.php:352
+msgid "Navigation slider"
+msgstr ""
+
+#: 7upframe/element/vc-blog.php:366
+msgid "Custom Date Format (Default get in Settings/General)"
+msgstr ""
+
+#: 7upframe/element/vc-blog.php:368
+msgid "Eg: d/m/Y <a href=\"https://codex.wordpress.org/Formatting_Date_and_Time\" target=\"_blank\">Documentation on date and time formatting</a>"
+msgstr ""
+
+#: 7upframe/element/vc-blog.php:373 7upframe/element/vc-testimonials.php:95
+msgid "Custom image size"
+msgstr ""
+
+#: 7upframe/element/vc-carousel-slider.php:39
+msgid "SV Carousel Slider"
+msgstr ""
+
+#: 7upframe/element/vc-carousel-slider.php:41 7upframe/element/vc-parent.php:30
+msgid "7Up-theme"
+msgstr ""
+
+#: 7upframe/element/vc-carousel-slider.php:57
+#: 7upframe/element/vc-product.php:881
+msgid "Auto play silder"
+msgstr ""
+
+#: 7upframe/element/vc-carousel-slider.php:64
+#: 7upframe/element/vc-carousel-slider.php:75
+#: 7upframe/element/vc-carousel-slider.php:86
+#: 7upframe/element/vc-product.php:892
+msgid "This allows you to enable or disable autoplay of slider."
+msgstr ""
+
+#: 7upframe/element/vc-carousel-slider.php:68
+#: 7upframe/element/vc-product.php:897
+msgid "Navigation silder"
+msgstr ""
+
+#: 7upframe/element/vc-carousel-slider.php:79
+#: 7upframe/element/vc-product.php:913
+msgid "Pagination silder"
+msgstr ""
+
+#: 7upframe/element/vc-carousel-slider.php:90
+msgid "Slider Animation"
+msgstr ""
+
+#: 7upframe/element/vc-carousel-slider.php:94
+msgid "Fade"
+msgstr ""
+
+#: 7upframe/element/vc-carousel-slider.php:95
+msgid "BackSlide"
+msgstr ""
+
+#: 7upframe/element/vc-carousel-slider.php:96
+msgid "GoDown"
+msgstr ""
+
+#: 7upframe/element/vc-carousel-slider.php:97
+msgid "FadeUp"
+msgstr ""
+
+#: 7upframe/element/vc-carousel-slider.php:108
+#: 7upframe/element/vc-parent.php:45
+msgid "CSS box"
+msgstr ""
+
+#: 7upframe/element/vc-countdown.php:19
+msgid "Years"
+msgstr ""
+
+#: 7upframe/element/vc-countdown.php:19
+msgid "Months"
+msgstr ""
+
+#: 7upframe/element/vc-countdown.php:19
+msgid "Weeks"
+msgstr ""
+
+#: 7upframe/element/vc-countdown.php:19
+msgid "Days"
+msgstr ""
+
+#: 7upframe/element/vc-countdown.php:19
+msgid "Hours"
+msgstr ""
+
+#: 7upframe/element/vc-countdown.php:19
+msgid "Min"
+msgstr ""
+
+#: 7upframe/element/vc-countdown.php:19
+msgid "Sec"
+msgstr ""
+
+#: 7upframe/element/vc-countdown.php:29
+msgid "SV Countdown"
+msgstr ""
+
+#: 7upframe/element/vc-countdown.php:37
+msgid "Date"
+msgstr ""
+
+#: 7upframe/element/vc-countdown.php:40
+msgid "Select date"
+msgstr ""
+
+#: 7upframe/element/vc-countdown.php:44
+msgid "Display format "
+msgstr ""
+
+#: 7upframe/element/vc-countdown.php:46
+msgid "Default: \"WDHMS\" (The format for display : \"Y\" years, \"O\" months, \"W\" weeks, \"D\" days, \"H\" hours, \"M\" minutes, \"S\" seconds. Upper case to always show, lower case to show only if non-zero)"
+msgstr ""
+
+#: 7upframe/element/vc-google-map.php:56
+msgid "SV GoogleMap"
+msgstr ""
+
+#: 7upframe/element/vc-google-map.php:63
+msgid "Add Map Location"
+msgstr ""
+
+#: 7upframe/element/vc-google-map.php:69
+msgid "Latitude"
+msgstr ""
+
+#: 7upframe/element/vc-google-map.php:72
+msgid "Enter Latitude of location"
+msgstr ""
+
+#: 7upframe/element/vc-google-map.php:77
+msgid "Longitude"
+msgstr ""
+
+#: 7upframe/element/vc-google-map.php:80
+msgid "Enter Longitude of location"
+msgstr ""
+
+#: 7upframe/element/vc-google-map.php:84
+msgid "Marker Title"
+msgstr ""
+
+#: 7upframe/element/vc-google-map.php:91
+msgid "Info Box"
+msgstr ""
+
+#: 7upframe/element/vc-google-map.php:94
+msgid "Enter info of location"
+msgstr ""
+
+#: 7upframe/element/vc-google-map.php:99
+msgid "Image Location"
+msgstr ""
+
+#: 7upframe/element/vc-google-map.php:101
+msgid "Upload image"
+msgstr ""
+
+#: 7upframe/element/vc-google-map.php:108
+#: 7upframe/element/vc-google-map.php:112
+msgid "Location"
+msgstr ""
+
+#: 7upframe/element/vc-google-map.php:121
+msgid "Map Style"
+msgstr ""
+
+#: 7upframe/element/vc-google-map.php:125
+msgid "Grayscale"
+msgstr ""
+
+#: 7upframe/element/vc-google-map.php:126
+msgid "Blue"
+msgstr ""
+
+#: 7upframe/element/vc-google-map.php:127
+msgid "Dark"
+msgstr ""
+
+#: 7upframe/element/vc-google-map.php:128
+msgid "Pink"
+msgstr ""
+
+#: 7upframe/element/vc-google-map.php:129
+msgid "Light"
+msgstr ""
+
+#: 7upframe/element/vc-google-map.php:130
+msgid "Blueessence"
+msgstr ""
+
+#: 7upframe/element/vc-google-map.php:131
+msgid "Bentley"
+msgstr ""
+
+#: 7upframe/element/vc-google-map.php:132
+msgid "Retro"
+msgstr ""
+
+#: 7upframe/element/vc-google-map.php:133
+msgid "Cobalt"
+msgstr ""
+
+#: 7upframe/element/vc-google-map.php:134
+msgid "Brownie"
+msgstr ""
+
+#: 7upframe/element/vc-google-map.php:135
+msgid "Snazzy"
+msgstr ""
+
+#: 7upframe/element/vc-google-map.php:137
+#: 7upframe/element/vc-google-map.php:144
+#: 7upframe/element/vc-google-map.php:155
+#: 7upframe/element/vc-google-map.php:163
+#: 7upframe/element/vc-google-map.php:170
+#: 7upframe/element/vc-google-map.php:176
+#: 7upframe/element/vc-google-map.php:188
+#: 7upframe/element/vc-google-map.php:199
+#: 7upframe/element/vc-google-map.php:210
+#: 7upframe/element/vc-google-map.php:221
+msgid "Map Settings"
+msgstr ""
+
+#: 7upframe/element/vc-google-map.php:149
+msgid "Map Zoom"
+msgstr ""
+
+#: 7upframe/element/vc-google-map.php:151
+msgid "Enter zoom for map (Default is 16 level)."
+msgstr ""
+
+#: 7upframe/element/vc-google-map.php:154
+msgid "Level"
+msgstr ""
+
+#: 7upframe/element/vc-google-map.php:161
+msgid "Marker Image"
+msgstr ""
+
+#: 7upframe/element/vc-google-map.php:167
+msgid "Map Width"
+msgstr ""
+
+#: 7upframe/element/vc-google-map.php:169
+msgid "This is value to set width and height for map. Unit % , px or em. "
+msgstr ""
+
+#: 7upframe/element/vc-google-map.php:174
+msgid "Map Height"
+msgstr ""
+
+#: 7upframe/element/vc-google-map.php:177
+msgid "This is value to set height for map. Unit % or px. Example: 100%,500px. Default is 500px"
+msgstr ""
+
+#: 7upframe/element/vc-google-map.php:182
+msgid "Map Type Control"
+msgstr ""
+
+#: 7upframe/element/vc-google-map.php:185
+#: 7upframe/element/vc-google-map.php:196
+#: 7upframe/element/vc-google-map.php:208
+#: 7upframe/element/vc-google-map.php:218 7upframe/element/vc-product.php:514
+#: 7upframe/element/vc-product.php:525 7upframe/element/vc-product.php:537
+msgid "Yes"
+msgstr ""
+
+#: 7upframe/element/vc-google-map.php:186
+#: 7upframe/element/vc-google-map.php:197
+#: 7upframe/element/vc-google-map.php:207
+#: 7upframe/element/vc-google-map.php:219 7upframe/element/vc-product.php:513
+#: 7upframe/element/vc-product.php:524 7upframe/element/vc-product.php:536
+msgid "No"
+msgstr ""
+
+#: 7upframe/element/vc-google-map.php:193
+msgid "Scroll wheel"
+msgstr ""
+
+#: 7upframe/element/vc-google-map.php:204
+msgid "Disable Default UI"
+msgstr ""
+
+#: 7upframe/element/vc-google-map.php:215
+msgid "Draggable"
+msgstr ""
+
+#: 7upframe/element/vc-intagram.php:53
+msgid "SV Instagram"
+msgstr ""
+
+#: 7upframe/element/vc-intagram.php:62
+msgid "Image source"
+msgstr ""
+
+#: 7upframe/element/vc-intagram.php:65
+msgid "Instagram"
+msgstr ""
+
+#: 7upframe/element/vc-intagram.php:66
+msgid "Media library"
+msgstr ""
+
+#: 7upframe/element/vc-intagram.php:68
+msgid "Select image source."
+msgstr ""
+
+#: 7upframe/element/vc-intagram.php:72 7upframe/element/vc_info_box.php:153
+#: 7upframe/element/vc_info_box.php:212 7upframe/element/vc_mincart.php:42
+msgid "Title"
+msgstr ""
+
+#: 7upframe/element/vc-intagram.php:78
+msgid "User name"
+msgstr ""
+
+#: 7upframe/element/vc-intagram.php:80
+msgid "Enter user name Instagram."
+msgstr ""
+
+#: 7upframe/element/vc-intagram.php:88
+msgid "Token"
+msgstr ""
+
+#: 7upframe/element/vc-intagram.php:94
+msgid "Enter token to view more 12 of photos. Create token your account at: https://outofthesandbox.com/pages/instagram-access-token"
+msgstr ""
+
+#: 7upframe/element/vc-intagram.php:98
+msgid "Add image item"
+msgstr ""
+
+#: 7upframe/element/vc-intagram.php:104
+msgid "image"
+msgstr ""
+
+#: 7upframe/element/vc-intagram.php:106
+msgid "Select image from media library."
+msgstr ""
+
+#: 7upframe/element/vc-intagram.php:126
+msgid "Photo number"
+msgstr ""
+
+#: 7upframe/element/vc-intagram.php:129
+msgid "Photo"
+msgstr ""
+
+#: 7upframe/element/vc-intagram.php:137
+msgid "Image custom size"
+msgstr ""
+
+#: 7upframe/element/vc-intagram.php:140
+msgid "Small"
+msgstr ""
+
+#: 7upframe/element/vc-intagram.php:141
+msgid "Medium"
+msgstr ""
+
+#: 7upframe/element/vc-intagram.php:142
+msgid "Large"
+msgstr ""
+
+#: 7upframe/element/vc-intagram.php:148
+msgid "Select size"
+msgstr ""
+
+#: 7upframe/element/vc-intagram.php:152
+msgid "On click action"
+msgstr ""
+
+#: 7upframe/element/vc-intagram.php:157
+msgid "Popup image"
+msgstr ""
+
+#: 7upframe/element/vc-intagram.php:158
+msgid "Link to Instagram"
+msgstr ""
+
+#: 7upframe/element/vc-intagram.php:165
+msgid "Select action for click action."
+msgstr ""
+
+#: 7upframe/element/vc-item-banner.php:39
+msgid "SV Banner Slider"
+msgstr ""
+
+#: 7upframe/element/vc-item-banner.php:47
+msgid "Background Image"
+msgstr ""
+
+#: 7upframe/element/vc-item-banner.php:60
+msgid "Add frame video"
+msgstr ""
+
+#: 7upframe/element/vc-item-banner.php:66 7upframe/element/vc-menu.php:471
+#: 7upframe/element/vc-top-bar.php:148
+msgid "Text content"
+msgstr ""
+
+#: 7upframe/element/vc-item-banner.php:79
+msgid "Custom background image size"
+msgstr ""
+
+#: 7upframe/element/vc-logo-header.php:42
+msgid "SV Logo"
+msgstr ""
+
+#: 7upframe/element/vc-logo-header.php:50
+msgid "Logo image"
+msgstr ""
+
+#: 7upframe/element/vc-logo-header.php:52 7upframe/element/vc-menu.php:343
+msgid "Select image from library"
+msgstr ""
+
+#: 7upframe/element/vc-logo-header.php:56 7upframe/element/vc-menu.php:351
+msgid "Logo text"
+msgstr ""
+
+#: 7upframe/element/vc-logo-header.php:59 7upframe/element/vc-menu.php:355
+msgid "Enter text (Appears when the logo image is not available)"
+msgstr ""
+
+#: 7upframe/element/vc-logo-header.php:64 7upframe/element/vc-menu.php:363
+msgid "Logo text format"
+msgstr ""
+
+#: 7upframe/element/vc-logo-header.php:66 7upframe/element/vc-menu.php:366
+msgid "Select format"
+msgstr ""
+
+#: 7upframe/element/vc-logo-header.php:75 7upframe/element/vc-menu.php:375
+msgid "P"
+msgstr ""
+
+#: 7upframe/element/vc-logo-header.php:76 7upframe/element/vc-menu.php:376
+msgid "DIV"
+msgstr ""
+
+#: 7upframe/element/vc-logo-header.php:81 7upframe/element/vc-menu.php:385
+msgid "Color logo text"
+msgstr ""
+
+#: 7upframe/element/vc-logo-header.php:83 7upframe/element/vc-menu.php:388
+msgid "Select color."
+msgstr ""
+
+#: 7upframe/element/vc-logo-header.php:88
+msgid "Logo alignment"
+msgstr ""
+
+#: 7upframe/element/vc-logo-header.php:91
+msgid "Select image alignment."
+msgstr ""
+
+#: 7upframe/element/vc-logo-header.php:93 7upframe/element/vc-menu.php:305
+#: 7upframe/element/vc-top-bar.php:196
+msgid "Center"
+msgstr ""
+
+#: 7upframe/element/vc-logo-header.php:106 7upframe/element/vc-menu.php:517
+#: 7upframe/element/vc-product.php:1061 7upframe/element/vc-service.php:158
+#: 7upframe/element/vc_info_box.php:295
+msgid "Image Size"
+msgstr ""
+
+#: 7upframe/element/vc-menu.php:217
+msgid "SV Menu"
+msgstr ""
+
+#: 7upframe/element/vc-menu.php:225
+msgid "Menu name"
+msgstr ""
+
+#: 7upframe/element/vc-menu.php:228
+msgid "Select Menu name to display"
+msgstr ""
+
+#: 7upframe/element/vc-menu.php:233 7upframe/element/vc-top-bar.php:58
+msgid "Style menu"
+msgstr ""
+
+#: 7upframe/element/vc-menu.php:244 7upframe/element/vc-menu.php:325
+msgid "Menu scroll fixed top"
+msgstr ""
+
+#: 7upframe/element/vc-menu.php:260 7upframe/element/vc-menu.php:397
+#: 7upframe/element/vc-top-bar.php:93
+msgid "Show box search"
+msgstr ""
+
+#: 7upframe/element/vc-menu.php:275 7upframe/element/vc-menu.php:429
+#: 7upframe/element/vc-top-bar.php:124
+msgid "Search live"
+msgstr ""
+
+#: 7upframe/element/vc-menu.php:285 7upframe/element/vc-menu.php:413
+#: 7upframe/element/vc-top-bar.php:108
+msgid "Search order by"
+msgstr ""
+
+#: 7upframe/element/vc-menu.php:291 7upframe/element/vc-menu.php:419
+#: 7upframe/element/vc-top-bar.php:114
+msgid "Products"
+msgstr ""
+
+#: 7upframe/element/vc-menu.php:302
+msgid "Menu position"
+msgstr ""
+
+#: 7upframe/element/vc-menu.php:327 7upframe/element/vc-menu.php:342
+#: 7upframe/element/vc-menu.php:352 7upframe/element/vc-menu.php:365
+#: 7upframe/element/vc-menu.php:387 7upframe/element/vc-menu.php:399
+#: 7upframe/element/vc-menu.php:431 7upframe/element/vc-menu.php:442
+#: 7upframe/element/vc-menu.php:457 7upframe/element/vc-menu.php:472
+#: 7upframe/element/vc-menu.php:484
+msgid "Menu scroll"
+msgstr ""
+
+#: 7upframe/element/vc-menu.php:340
+msgid "Logo image scroll"
+msgstr ""
+
+#: 7upframe/element/vc-menu.php:440 7upframe/element/vc-top-bar.php:134
+msgid "Show mini cart"
+msgstr ""
+
+#: 7upframe/element/vc-menu.php:455
+msgid "Show menu"
+msgstr ""
+
+#: 7upframe/element/vc-menu.php:482 7upframe/element/vc-social.php:40
+#: 7upframe/element/vc-top-bar.php:158
+msgid "Add social item"
+msgstr ""
+
+#: 7upframe/element/vc-menu.php:500 7upframe/element/vc-service.php:78
+#: 7upframe/element/vc-social.php:54 7upframe/element/vc-top-bar.php:83
+#: 7upframe/element/vc-top-bar.php:175 7upframe/element/vc_info_box.php:103
+#: 7upframe/element/vc_mincart.php:56
+msgid "Select icon from library."
+msgstr ""
+
+#: 7upframe/element/vc-menu.php:504 7upframe/element/vc-top-bar.php:179
+msgid "Link item"
+msgstr ""
+
+#: 7upframe/element/vc-menu.php:573 7upframe/element/vc-menu.php:596
+msgid "No any results with this keyword."
+msgstr ""
+
+#: 7upframe/element/vc-parent.php:28
+msgid "SV Parent"
+msgstr ""
+
+#: 7upframe/element/vc-product.php:301 7upframe/element/vc-product.php:306
+msgid "You have not viewed any products."
+msgstr ""
+
+#: 7upframe/element/vc-product.php:384
+msgid "SV Products"
+msgstr ""
+
+#: 7upframe/element/vc-product.php:392
+msgid "Style element"
+msgstr ""
+
+#: 7upframe/element/vc-product.php:396
+msgid "Style 1 (Grid default)"
+msgstr ""
+
+#: 7upframe/element/vc-product.php:397
+msgid "Style 2 (List default)"
+msgstr ""
+
+#: 7upframe/element/vc-product.php:398
+msgid "Style 3 (List)"
+msgstr ""
+
+#: 7upframe/element/vc-product.php:399
+msgid "Style 4 (list)"
+msgstr ""
+
+#: 7upframe/element/vc-product.php:401
+msgid "Style 6 (Tab-slider)"
+msgstr ""
+
+#: 7upframe/element/vc-product.php:415
+msgid " Tab navigation style"
+msgstr ""
+
+#: 7upframe/element/vc-product.php:419 7upframe/element/vc-product.php:448
+#: 7upframe/element/vc-service.php:56
+msgid "Style 1"
+msgstr ""
+
+#: 7upframe/element/vc-product.php:424 7upframe/element/vc-product.php:453
+msgid "Style 6"
+msgstr ""
+
+#: 7upframe/element/vc-product.php:444
+msgid "Product content style"
+msgstr ""
+
+#: 7upframe/element/vc-product.php:484
+msgid "Add tab item"
+msgstr ""
+
+#: 7upframe/element/vc-product.php:490
+msgid "Title tab"
+msgstr ""
+
+#: 7upframe/element/vc-product.php:497 7upframe/element/vc-product.php:583
+msgid "Number products"
+msgstr ""
+
+#: 7upframe/element/vc-product.php:501 7upframe/element/vc-product.php:587
+#: 7upframe/function/function.php:1448
+#: s7upf_templates/elements/products/product-style1.php:39
+#: s7upf_templates/elements/products/product-style1.php:107
+#: s7upf_templates/elements/products/product-style2.php:34
+#: s7upf_templates/elements/products/product-style2.php:97
+#: s7upf_templates/woo/content-product.php:38
+#: s7upf_templates/woo/content-product.php:107
+#: woocommerce/cart/cross-sells.php:52
+#: woocommerce/single-product/related.php:51
+#: woocommerce/single-product/up-sells.php:52
+msgid "product"
+msgstr ""
+
+#: 7upframe/element/vc-product.php:502 7upframe/element/vc-product.php:588
+msgid "Enter a number to show product in page"
+msgstr ""
+
+#: 7upframe/element/vc-product.php:507 7upframe/element/vc-product.php:645
+#: 7upframe/element/vc-product.php:651
+msgid "Product featured"
+msgstr ""
+
+#: 7upframe/element/vc-product.php:511 7upframe/element/vc-product.php:649
+msgid "Check the box to filter products is feature"
+msgstr ""
+
+#: 7upframe/element/vc-product.php:520 7upframe/element/vc-product.php:662
+msgid "Products on sale"
+msgstr ""
+
+#: 7upframe/element/vc-product.php:528 7upframe/element/vc-product.php:673
+msgid "Check the box to filter products is on sale"
+msgstr ""
+
+#: 7upframe/element/vc-product.php:532 7upframe/element/vc-product.php:678
+msgid "Products trending filter"
+msgstr ""
+
+#: 7upframe/element/vc-product.php:540 7upframe/element/vc-product.php:689
+msgid "Check the box to filter products is trending"
+msgstr ""
+
+#: 7upframe/element/vc-product.php:547 7upframe/element/vc-product.php:694
+msgid "Select categories"
+msgstr ""
+
+#: 7upframe/element/vc-product.php:549 7upframe/element/vc-product.php:696
+msgid "Check the box to choose category"
+msgstr ""
+
+#: 7upframe/element/vc-product.php:555 7upframe/element/vc-product.php:708
+msgid "Order by"
+msgstr ""
+
+#: 7upframe/element/vc-product.php:566 7upframe/element/vc-product.php:722
+msgid "Descending"
+msgstr ""
+
+#: 7upframe/element/vc-product.php:567 7upframe/element/vc-product.php:723
+msgid "Ascending"
+msgstr ""
+
+#: 7upframe/element/vc-product.php:597
+msgid "Filter type"
+msgstr ""
+
+#: 7upframe/element/vc-product.php:601
+msgid "Filter By Price"
+msgstr ""
+
+#: 7upframe/element/vc-product.php:602
+msgid "Browse History"
+msgstr ""
+
+#: 7upframe/element/vc-product.php:604
+msgid "Select a filter type"
+msgstr ""
+
+#: 7upframe/element/vc-product.php:615
+msgid "Min price (*)"
+msgstr ""
+
+#: 7upframe/element/vc-product.php:618
+msgid "Enter a min price"
+msgstr ""
+
+#: 7upframe/element/vc-product.php:633
+msgid "Max price (*)"
+msgstr ""
+
+#: 7upframe/element/vc-product.php:636
+msgid "Enter a max price"
+msgstr ""
+
+#: 7upframe/element/vc-product.php:665
+msgid "Product On Sale"
+msgstr ""
+
+#: 7upframe/element/vc-product.php:682
+msgid "Trending Now"
+msgstr ""
+
+#: 7upframe/element/vc-product.php:734
+msgid "Pagination bar"
+msgstr ""
+
+#: 7upframe/element/vc-product.php:736
+msgid "This allows you to hide or show the pagination bar."
+msgstr ""
+
+#: 7upframe/element/vc-product.php:748
+msgid "Show bar order by"
+msgstr ""
+
+#: 7upframe/element/vc-product.php:763 7upframe/element/vc-product.php:773
+#: 7upframe/element/vc_info_box.php:251
+msgid "Add button"
+msgstr ""
+
+#: 7upframe/element/vc-product.php:765 7upframe/element/vc-product.php:775
+#: 7upframe/element/vc-service.php:88 7upframe/element/vc_info_box.php:198
+#: 7upframe/element/vc_info_box.php:253
+msgid "Enter Link/URL"
+msgstr ""
+
+#: 7upframe/element/vc-product.php:791
+msgid "Position tab active"
+msgstr ""
+
+#: 7upframe/element/vc-product.php:793
+msgid "Select the active tab position (From left to right)"
+msgstr ""
+
+#: 7upframe/element/vc-product.php:796 7upframe/element/vc-top-bar.php:191
+msgid "Position"
+msgstr ""
+
+#: 7upframe/element/vc-product.php:809
+msgid "This allows you to change the number column of the product grid."
+msgstr ""
+
+#: 7upframe/element/vc-product.php:812
+msgid "4 columns"
+msgstr ""
+
+#: 7upframe/element/vc-product.php:825
+msgid "Show select filter"
+msgstr ""
+
+#: 7upframe/element/vc-product.php:835
+msgid "Enable box filter."
+msgstr ""
+
+#: 7upframe/element/vc-product.php:855
+msgid "Custom row Slider"
+msgstr ""
+
+#: 7upframe/element/vc-product.php:859
+msgid "1 Row"
+msgstr ""
+
+#: 7upframe/element/vc-product.php:860
+msgid "2 Rows"
+msgstr ""
+
+#: 7upframe/element/vc-product.php:861
+msgid "3 Rows"
+msgstr ""
+
+#: 7upframe/element/vc-product.php:862
+msgid "4 Rows"
+msgstr ""
+
+#: 7upframe/element/vc-product.php:863
+msgid "5 Rows"
+msgstr ""
+
+#: 7upframe/element/vc-product.php:864
+msgid "6 Rows"
+msgstr ""
+
+#: 7upframe/element/vc-product.php:865
+msgid "7 Rows"
+msgstr ""
+
+#: 7upframe/element/vc-product.php:866
+msgid "8 Rows"
+msgstr ""
+
+#: 7upframe/element/vc-product.php:867
+msgid "9 Rows"
+msgstr ""
+
+#: 7upframe/element/vc-product.php:868
+msgid "10 Rows"
+msgstr ""
+
+#: 7upframe/element/vc-product.php:869
+msgid "15 Rows"
+msgstr ""
+
+#: 7upframe/element/vc-product.php:870
+msgid "20 Rows"
+msgstr ""
+
+#: 7upframe/element/vc-product.php:876
+msgid "Select number row of slides."
+msgstr ""
+
+#: 7upframe/element/vc-product.php:908
+msgid "This allows you to enable or disable navigation of slider."
+msgstr ""
+
+#: 7upframe/element/vc-product.php:924
+msgid "This allows you to enable or disable pagination of slider."
+msgstr ""
+
+#: 7upframe/element/vc-product.php:929
+msgid "Animation image"
+msgstr ""
+
+#: 7upframe/element/vc-product.php:933
+msgid "Zoom"
+msgstr ""
+
+#: 7upframe/element/vc-product.php:934
+msgid "Zoom out"
+msgstr ""
+
+#: 7upframe/element/vc-product.php:942
+msgid "This allows you to change animation image product."
+msgstr ""
+
+#: 7upframe/element/vc-product.php:947
+msgid "Hide over mask of image"
+msgstr ""
+
+#: 7upframe/element/vc-product.php:966 7upframe/element/vc-product.php:980
+msgid "Custom number word excerpt (default 30 word)"
+msgstr ""
+
+#: 7upframe/element/vc-product.php:985
+msgid "Add to cart types"
+msgstr ""
+
+#: 7upframe/element/vc-product.php:989
+msgid "Add to cart button"
+msgstr ""
+
+#: 7upframe/element/vc-product.php:990
+msgid "Add to cart button and view cart button"
+msgstr ""
+
+#: 7upframe/element/vc-product.php:991
+msgid "view cart button"
+msgstr ""
+
+#: 7upframe/element/vc-product.php:997
+msgid "Types the add to cart action."
+msgstr ""
+
+#: 7upframe/element/vc-product.php:1002
+msgid "Label sale"
+msgstr ""
+
+#: 7upframe/element/vc-product.php:1008
+msgid "This allows you to control sticker display for products which are marked as Sale off in wooCommerce."
+msgstr ""
+
+#: 7upframe/element/vc-product.php:1013
+msgid "Label new"
+msgstr ""
+
+#: 7upframe/element/vc-product.php:1032
+msgid "Day"
+msgstr ""
+
+#: 7upframe/element/vc-product.php:1037
+msgid "Automated filtering by link"
+msgstr ""
+
+#: 7upframe/element/vc-product.php:1047
+msgid "Position item product gallery"
+msgstr ""
+
+#: 7upframe/element/vc-product.php:1070
+msgid "Image size featured"
+msgstr ""
+
+#: 7upframe/element/vc-product.php:1083 7upframe/element/vc-product.php:1124
+msgid "Banner Option"
+msgstr ""
+
+#: 7upframe/element/vc-product.php:1084 7upframe/element/vc-product.php:1125
+msgid "Add banner item"
+msgstr ""
+
+#: 7upframe/element/vc-product.php:1090 7upframe/element/vc-product.php:1131
+msgid "Background image"
+msgstr ""
+
+#: 7upframe/element/vc-product.php:1096 7upframe/element/vc-product.php:1137
+msgid "Link background image"
+msgstr ""
+
+#: 7upframe/element/vc-product.php:1101
+msgid "Custom position banner"
+msgstr ""
+
+#: 7upframe/element/vc-service.php:45
+msgid "SV Service"
+msgstr ""
+
+#: 7upframe/element/vc-service.php:86
+msgid "Add link icon"
+msgstr ""
+
+#: 7upframe/element/vc-service.php:117
+msgid "Content service"
+msgstr ""
+
+#: 7upframe/element/vc-service.php:129
+msgid "Triangle corner position"
+msgstr ""
+
+#: 7upframe/element/vc-service.php:133
+msgid "Bottom right"
+msgstr ""
+
+#: 7upframe/element/vc-service.php:134
+msgid "Bottom left"
+msgstr ""
+
+#: 7upframe/element/vc-service.php:135
+msgid "Top left"
+msgstr ""
+
+#: 7upframe/element/vc-service.php:136
+msgid "Top right"
+msgstr ""
+
+#: 7upframe/element/vc-service.php:147
+msgid "Background color"
+msgstr ""
+
+#: 7upframe/element/vc-service.php:154
+msgid "Select color"
+msgstr ""
+
+#: 7upframe/element/vc-shortcode.php:39
+msgid "Shop Now"
+msgstr ""
+
+#: 7upframe/element/vc-social.php:32
+msgid "SV Social"
+msgstr ""
+
+#: 7upframe/element/vc-social.php:47
+msgid "Icon"
+msgstr ""
+
+#: 7upframe/element/vc-social.php:58
+msgid "Add link"
+msgstr ""
+
+#: 7upframe/element/vc-testimonials.php:38
+msgid "SV Testimonials"
+msgstr ""
+
+#: 7upframe/element/vc-testimonials.php:46
+msgid "Add testimonial item"
+msgstr ""
+
+#: 7upframe/element/vc-testimonials.php:77 7upframe/element/vc_info_box.php:164
+msgid "Title/Name"
+msgstr ""
+
+#: 7upframe/element/vc-top-bar.php:50
+msgid "SV Top Bar"
+msgstr ""
+
+#: 7upframe/element/vc-top-bar.php:76 7upframe/element/vc_mincart.php:49
+msgid "Change the icon cart "
+msgstr ""
+
+#: 7upframe/element/vc-top-bar.php:206
+msgid "Change color icon"
+msgstr ""
+
+#: 7upframe/element/vc_info_box.php:61
+msgid "SV Info Box"
+msgstr ""
+
+#: 7upframe/element/vc_info_box.php:72
+msgid "Style 1 (Title box)"
+msgstr ""
+
+#: 7upframe/element/vc_info_box.php:73
+msgid "Style 2 (Category)"
+msgstr ""
+
+#: 7upframe/element/vc_info_box.php:74
+msgid "Style 3 (banner)"
+msgstr ""
+
+#: 7upframe/element/vc_info_box.php:75
+msgid "Style 4 (Table price)"
+msgstr ""
+
+#: 7upframe/element/vc_info_box.php:76
+msgid "Style 5 (Title box)"
+msgstr ""
+
+#: 7upframe/element/vc_info_box.php:77
+msgid "Style 6 (Slider box)"
+msgstr ""
+
+#: 7upframe/element/vc_info_box.php:78
+msgid "Style 7 (Testimonial)"
+msgstr ""
+
+#: 7upframe/element/vc_info_box.php:79
+msgid "Style 8 (Testimonial)"
+msgstr ""
+
+#: 7upframe/element/vc_info_box.php:80
+msgid "Style 9 (Testimonial)"
+msgstr ""
+
+#: 7upframe/element/vc_info_box.php:81
+msgid "Style 10 (MailChimp)"
+msgstr ""
+
+#: 7upframe/element/vc_info_box.php:82
+msgid "Style 11 (Accordion)"
+msgstr ""
+
+#: 7upframe/element/vc_info_box.php:83
+msgid "Style 12 (Contact box)"
+msgstr ""
+
+#: 7upframe/element/vc_info_box.php:111
+msgid "Get ID shortcode Mailchimp"
+msgstr ""
+
+#: 7upframe/element/vc_info_box.php:114
+msgid "Enter shortcode."
+msgstr ""
+
+#: 7upframe/element/vc_info_box.php:122
+msgid "Placeholder input"
+msgstr ""
+
+#: 7upframe/element/vc_info_box.php:132
+msgid "Index box"
+msgstr ""
+
+#: 7upframe/element/vc_info_box.php:143
+msgid "Price label"
+msgstr ""
+
+#: 7upframe/element/vc_info_box.php:196
+msgid "Add Link"
+msgstr ""
+
+#: 7upframe/element/vc_info_box.php:206
+msgid "Add info item"
+msgstr ""
+
+#: 7upframe/element/vc_info_box.php:219
+msgid "Icon title"
+msgstr ""
+
+#: 7upframe/element/vc_mincart.php:35
+msgid "SV Mini Cart"
+msgstr ""
+
+#: 7upframe/element/vc_mincart.php:60
+msgid "Pull cart"
+msgstr ""
+
+#: 7upframe/element/vc_mincart.php:63
+msgid "Pull right"
+msgstr ""
+
+#: 7upframe/element/vc_mincart.php:64
+msgid "Pull left"
+msgstr ""
+
+#: 7upframe/element/vc_mincart.php:65
+msgid "Pull center"
+msgstr ""
+
+#: 7upframe/function/function.php:33 7upframe/function/function.php:36
+#: 7upframe/function/function.php:84 7upframe/function/function.php:127
+msgid "-- Choose One --"
+msgstr ""
+
+#: 7upframe/function/function.php:287
+msgid "Product ID"
+msgstr ""
+
+#: 7upframe/function/function.php:288 7upframe/function/function.php:347
+msgid "Author"
+msgstr ""
+
+#: 7upframe/function/function.php:289
+msgid "Product Title"
+msgstr ""
+
+#: 7upframe/function/function.php:290
+msgid "Product Date"
+msgstr ""
+
+#: 7upframe/function/function.php:291 7upframe/function/function.php:351
+msgid "Last Modified Date"
+msgstr ""
+
+#: 7upframe/function/function.php:292
+msgid "Product Parent"
+msgstr ""
+
+#: 7upframe/function/function.php:293 7upframe/function/function.php:353
+msgid "Random"
+msgstr ""
+
+#: 7upframe/function/function.php:294 7upframe/function/function.php:354
+msgid "Comment Count"
+msgstr ""
+
+#: 7upframe/function/function.php:295
+msgid "Product popularity - Best Seller"
+msgstr ""
+
+#: 7upframe/function/function.php:296
+msgid "Rating"
+msgstr ""
+
+#: 7upframe/function/function.php:297
+msgid "Most View"
+msgstr ""
+
+#: 7upframe/function/function.php:298
+msgid "Sort by price"
+msgstr ""
+
+#: 7upframe/function/function.php:346
+msgid "Post ID"
+msgstr ""
+
+#: 7upframe/function/function.php:348
+msgid "Post Title"
+msgstr ""
+
+#: 7upframe/function/function.php:349
+msgid "Post Name"
+msgstr ""
+
+#: 7upframe/function/function.php:350
+msgid "Post Date"
+msgstr ""
+
+#: 7upframe/function/function.php:352
+msgid "Post Parent"
+msgstr ""
+
+#: 7upframe/function/function.php:355
+msgid "View Post"
+msgstr ""
+
+#: 7upframe/function/function.php:356
+msgid "Like Post"
+msgstr ""
+
+#: 7upframe/function/function.php:357
+msgid "Custom Modified Date"
+msgstr ""
+
+#: 7upframe/function/function.php:510
+msgid "Home"
+msgstr ""
+
+#: 7upframe/function/function.php:511 7upframe/function/function.php:514
+msgid "%s"
+msgstr ""
+
+#: 7upframe/function/function.php:512
+msgid "Archive for \"%s\""
+msgstr ""
+
+#: 7upframe/function/function.php:513
+msgid "Search Results for \"%s\" Query"
+msgstr ""
+
+#: 7upframe/function/function.php:515
+msgid "Articles Posted by %s"
+msgstr ""
+
+#: 7upframe/function/function.php:516
+msgid "Error 404"
+msgstr ""
+
+#: 7upframe/function/function.php:625
+msgid "Page"
+msgstr ""
+
+#: 7upframe/function/function.php:786
+msgid "Categories: "
+msgstr ""
+
+#: 7upframe/function/function.php:791
+msgid "Post by:"
+msgstr ""
+
+#: 7upframe/function/function.php:802 7upframe/function/function.php:843
+#: 7upframe/function/function.php:887
+#: s7upf_templates/blog-content/content.php:180
+#: s7upf_templates/elements/blog/blog-style1.php:31
+msgctxt "comments title"
+msgid "%1$s Comment"
+msgid_plural "%1$s Comments"
+msgstr[0] ""
+msgstr[1] ""
+
+#: 7upframe/function/function.php:808 7upframe/function/function.php:829
+#: s7upf_templates/blog-content/content.php:166
+msgid "Sticky"
+msgstr ""
+
+#: 7upframe/function/function.php:874
+msgid "by"
+msgstr ""
+
+#: 7upframe/function/function.php:875
+msgid "in"
+msgstr ""
+
+#: 7upframe/function/function.php:877
+msgid "No Category"
+msgstr ""
+
+#: 7upframe/function/function.php:879
+msgid "tag"
+msgstr ""
+
+#: 7upframe/function/function.php:881
+msgid "No Tag"
+msgstr ""
+
+#: 7upframe/function/function.php:884
+msgid "note"
+msgstr ""
+
+#: 7upframe/function/function.php:937
+msgid "Copyright &copy; by 7up. All Rights Reserved. Designed by"
+msgstr ""
+
+#: 7upframe/function/function.php:937
+msgid "http://7uptheme.com/"
+msgstr ""
+
+#: 7upframe/function/function.php:937
+msgid "7uptheme.com"
+msgstr ""
+
+#: 7upframe/function/function.php:1283
+msgid " ITEMS IN MY CART"
+msgstr ""
+
+#: 7upframe/function/function.php:1283
+msgid " ITEM IN MY CART"
+msgstr ""
+
+#: 7upframe/function/function.php:1306
+msgid "Remove this item"
+msgstr ""
+
+#: 7upframe/function/function.php:1325
+msgid "Qty:"
+msgstr ""
+
+#: 7upframe/function/function.php:1335
+msgid "TOTAL"
+msgstr ""
+
+#: 7upframe/function/function.php:1339
+msgid "View my cart "
+msgstr ""
+
+#: 7upframe/function/function.php:1340
+msgid "Checkout"
+msgstr ""
+
+#: 7upframe/function/function.php:1346
+msgid "No Product in your cart."
+msgstr ""
+
+#: 7upframe/function/function.php:1374
+msgid "Edit<span class=\"screen-reader-text\"> \"%s\"</span>"
+msgstr ""
+
+#: 7upframe/function/function.php:1397
+msgid "Gallery"
+msgstr ""
+
+#: 7upframe/function/function.php:1400
+msgid "Video"
+msgstr ""
+
+#: 7upframe/function/function.php:1403
+msgid "Audio"
+msgstr ""
+
+#: 7upframe/function/function.php:1406
+msgid "Aside"
+msgstr ""
+
+#: 7upframe/function/function.php:1409
+msgid "Chat"
+msgstr ""
+
+#: 7upframe/function/function.php:1412
+msgid "Link"
+msgstr ""
+
+#: 7upframe/function/function.php:1415
+msgid "Quote"
+msgstr ""
+
+#: 7upframe/function/function.php:1421
+msgid "Standard"
+msgstr ""
+
+#: 7upframe/function/function.php:1448 7upframe/function/function.php:1463
+#: s7upf_templates/elements/products/product-style1.php:39
+#: s7upf_templates/elements/products/product-style1.php:107
+#: s7upf_templates/elements/products/product-style2.php:34
+#: s7upf_templates/elements/products/product-style2.php:97
+#: s7upf_templates/woo/content-product.php:38
+#: s7upf_templates/woo/content-product.php:107
+#: woocommerce/cart/cross-sells.php:52
+#: woocommerce/single-product/related.php:51
+#: woocommerce/single-product/up-sells.php:52
+msgid "Image Default"
+msgstr ""
+
+#: 7upframe/function/function.php:1486
+msgid "New"
+msgstr ""
+
+#: 7upframe/function/function.php:1570
+msgid "Default sorting"
+msgstr ""
+
+#: 7upframe/function/function.php:1571
+msgid "Sort by popularity"
+msgstr ""
+
+#: 7upframe/function/function.php:1572
+msgid "Sort by average rating"
+msgstr ""
+
+#: 7upframe/function/function.php:1573
+msgid "Sort by newness"
+msgstr ""
+
+#: 7upframe/function/function.php:1574
+msgid "Sort by price: low to high"
+msgstr ""
+
+#: 7upframe/function/function.php:1575
+msgid "Sort by price: high to low"
+msgstr ""
+
+#: 7upframe/function/function.php:1606 s7upf_templates/woo/top-bar-view.php:25
+msgid "Sort:"
+msgstr ""
+
+#: 7upframe/widget/wg-fiter-product.php:31
+msgid "Shows a custom attribute in a widget which lets you narrow down the list of products when viewing product categories."
+msgstr ""
+
+#: 7upframe/widget/wg-fiter-product.php:33
+msgid "S7up Filter Products"
+msgstr ""
+
+#: 7upframe/widget/wg-fiter-product.php:95
+msgid "Filter by"
+msgstr ""
+
+#: 7upframe/widget/wg-fiter-product.php:96
+msgid "Title widget"
+msgstr ""
+
+#: 7upframe/widget/wg-fiter-product.php:102
+msgid "Show filter price"
+msgstr ""
+
+#: 7upframe/widget/wg-fiter-product.php:108
+msgid "Select attribute filter"
+msgstr ""
+
+#: 7upframe/widget/wg-fiter-product.php:116
+msgid "Hide/show attribute label"
+msgstr ""
+
+#: 7upframe/widget/wg-fiter-product.php:121
+msgid "Hide attribute label"
+msgstr ""
+
+#: 7upframe/widget/wg-fiter-product.php:173
+msgid "Filter"
+msgstr ""
+
+#: 7upframe/widget/wg-post-blog.php:27
+msgid "S7up Posts List"
+msgstr ""
+
+#: 7upframe/widget/wg-post-blog.php:28
+msgid "Posts list"
+msgstr ""
+
+#: 7upframe/widget/wg-post-blog.php:31
+msgid "List Posts"
+msgstr ""
+
+#: 7upframe/widget/wg-post-blog.php:100
+msgid "Title:"
+msgstr ""
+
+#: 7upframe/widget/wg-post-blog.php:105
+msgid "Post Number:"
+msgstr ""
+
+#: 7upframe/widget/wg-post-blog.php:109
+msgid "Order By:"
+msgstr ""
+
+#: 7upframe/widget/wg-post-blog.php:116
+msgid "Order:"
+msgstr ""
+
+#: 7upframe/widget/wg-post-blog.php:125
+#: s7upf_templates/elements/blog/blog-style1.php:39
+#: woocommerce/single-product/meta.php:35
+msgid "Category:"
+msgstr ""
+
+#: 7upframe/widget/wg-post-blog.php:129
+msgid "--- Select ---"
+msgstr ""
+
+#: 7upframe/widget/wg-post-blog.php:135
+msgid "Custom image size:"
+msgstr ""
+
+#: comments.php:25
+msgctxt "comments title"
+msgid "One thought on &ldquo;%2$s&rdquo;"
+msgid_plural "%1$s thoughts on &ldquo;%2$s&rdquo;"
+msgstr[0] ""
+msgstr[1] ""
+
+#: comments.php:32 comments.php:49
+msgid "Comment navigation"
+msgstr ""
+
+#: comments.php:33 comments.php:50
+msgid "&larr; Older Comments"
+msgstr ""
+
+#: comments.php:34 comments.php:51
+msgid "Newer Comments &rarr;"
+msgstr ""
+
+#: comments.php:61
+msgid "Comments are closed."
+msgstr ""
+
+#: comments.php:67
+msgid "LEAVE A COMMENT"
+msgstr ""
+
+#: comments.php:67
+msgid "Be the first to comment"
+msgstr ""
+
+#: comments.php:68
+msgid "Leave a Reply to %s"
+msgstr ""
+
+#: comments.php:71
+msgid "User name*"
+msgstr ""
+
+#: comments.php:72
+msgid "Email*"
+msgstr ""
+
+#: comments.php:74
+msgid "Post Comment"
+msgstr ""
+
+#: comments.php:76
+msgid "Your comment*"
+msgstr ""
+
+#: content.php:21 page.php:32 single.php:19 visual-temlpate.php:26
+msgid "Pages:"
+msgstr ""
+
+#: footer.php:27
+msgid "was added to wishlist"
+msgstr ""
+
+#: footer.php:29
+msgid "Close"
+msgstr ""
+
+#: footer.php:30
+msgid "View page"
+msgstr ""
+
+#: s7upf_templates/blog-content/content-none.php:11
+msgid "Nothing Found"
+msgstr ""
+
+#: s7upf_templates/blog-content/content-none.php:17
+msgid "Ready to publish your first post? <a href=\"%1$s\">Get started here</a>."
+msgstr ""
+
+#: s7upf_templates/blog-content/content-none.php:21
+msgid "Sorry, but nothing matched your search terms. Please try again with some different keywords."
+msgstr ""
+
+#: s7upf_templates/blog-content/content-none.php:26
+msgid "It seems we can&rsquo;t find what you&rsquo;re looking for. Perhaps searching can help."
+msgstr ""
+
+#: s7upf_templates/blog-content/content.php:144
+#: s7upf_templates/blog-content/content.php:214
+#: s7upf_templates/elements/blog/blog-style3.php:51
+#: s7upf_templates/elements/blog/blog-style5.php:52
+msgid "Read more"
+msgstr ""
+
+#: s7upf_templates/elements/blog/blog-style1.php:25
+msgid "Posted By:"
+msgstr ""
+
+#: s7upf_templates/elements/menu-wrap-search-cart.php:14
+#: s7upf_templates/elements/search-menu-style2.php:11
+#: s7upf_templates/elements/top-bar.php:30
+msgid "Search..."
+msgstr ""
+
+#: s7upf_templates/elements/menu-wrap-search-cart.php:24
+#: s7upf_templates/elements/search-menu-style2.php:21
+#: s7upf_templates/elements/top-bar.php:40
+msgid "Please enter key search to display results"
+msgstr ""
+
+#: s7upf_templates/elements/mini-cart.php:18
+msgid "Items: "
+msgstr ""
+
+#: s7upf_templates/elements/mini-cart.php:18
+msgid "Item: "
+msgstr ""
+
+#: s7upf_templates/elements/products/product-style1.php:76
+#: s7upf_templates/elements/products/product-style1.php:127
+#: s7upf_templates/elements/products/product-style2.php:54
+#: s7upf_templates/elements/products/product-style2.php:133
+#: s7upf_templates/elements/products/product-style3.php:38
+#: s7upf_templates/elements/products/product-style4.php:38
+#: s7upf_templates/elements/products/product-style6.php:246
+#: s7upf_templates/elements/products/product-style6.php:272
+#: s7upf_templates/elements/products/product-style6.php:341
+#: s7upf_templates/elements/products/product-style6.php:365
+#: s7upf_templates/elements/products/product-style6.php:460
+#: s7upf_templates/woo/content-product.php:75
+#: s7upf_templates/woo/content-product.php:127
+#: s7upf_templates/woo/single-product/info-single.php:41
+#: woocommerce/cart/cross-sells.php:72
+#: woocommerce/single-product/related.php:71
+#: woocommerce/single-product/up-sells.php:72
+msgid "Wishlist"
+msgstr ""
+
+#: s7upf_templates/elements/products/product-style1.php:77
+#: s7upf_templates/elements/products/product-style1.php:128
+#: s7upf_templates/elements/products/product-style2.php:55
+#: s7upf_templates/elements/products/product-style2.php:134
+#: s7upf_templates/elements/products/product-style3.php:39
+#: s7upf_templates/elements/products/product-style4.php:39
+#: s7upf_templates/elements/products/product-style6.php:247
+#: s7upf_templates/elements/products/product-style6.php:273
+#: s7upf_templates/elements/products/product-style6.php:342
+#: s7upf_templates/elements/products/product-style6.php:366
+#: s7upf_templates/elements/products/product-style6.php:461
+#: s7upf_templates/woo/content-product.php:76
+#: s7upf_templates/woo/content-product.php:128
+#: s7upf_templates/woo/single-product/info-single.php:42
+#: woocommerce/cart/cross-sells.php:73
+#: woocommerce/single-product/related.php:72
+#: woocommerce/single-product/up-sells.php:73
+msgid "Compare"
+msgstr ""
+
+#: s7upf_templates/elements/products/product-style1.php:116
+#: s7upf_templates/elements/products/product-style2.php:43
+#: s7upf_templates/elements/products/product-style5.php:35
+#: s7upf_templates/woo/content-product.php:116
+#: woocommerce/cart/cross-sells.php:61
+#: woocommerce/single-product/related.php:60
+#: woocommerce/single-product/up-sells.php:61
+msgid "Sale!"
+msgstr ""
+
+#: s7upf_templates/elements/products/product-style1.php:123
+#: s7upf_templates/elements/products/product-style2.php:50
+#: s7upf_templates/elements/products/product-style6.php:268
+#: s7upf_templates/woo/content-product.php:123
+#: woocommerce/cart/cross-sells.php:68
+#: woocommerce/single-product/related.php:67
+#: woocommerce/single-product/up-sells.php:68
+msgid "Quick view"
+msgstr ""
+
+#: s7upf_templates/elements/products/product-style1.php:124
+#: s7upf_templates/elements/products/product-style2.php:51
+#: s7upf_templates/elements/products/product-style6.php:269
+#: s7upf_templates/elements/products/product-style6.php:362
+#: s7upf_templates/elements/products/product-style6.php:457
+#: s7upf_templates/woo/content-product.php:124
+#: woocommerce/cart/cross-sells.php:69
+#: woocommerce/single-product/related.php:68
+#: woocommerce/single-product/up-sells.php:69
+msgctxt "Product total sale"
+msgid "( %s Sale )"
+msgid_plural "( %s Sales )"
+msgstr[0] ""
+msgstr[1] ""
+
+#: s7upf_templates/elements/products/product-style1.php:154
+#: s7upf_templates/elements/products/product-style2.php:152
+msgid "No products were found matching your selection."
+msgstr ""
+
+#: s7upf_templates/elements/products/product-style6.php:360
+#: s7upf_templates/elements/products/product-style6.php:456
+msgid "Quick view "
+msgstr ""
+
+#: s7upf_templates/single-content/content-none.php:2
+msgid "No post to display. Please create post !"
+msgstr ""
+
+#: search.php:17 search.php:19
+msgid "Search results for: %s"
+msgstr ""
+
+#: searchform.php:3
+msgid "search here"
+msgstr ""
+
+#: searchform.php:5
+msgid "Search"
+msgstr ""
+
+#: single.php:27
+msgid "Tags: "
+msgstr ""
+
+#: single.php:39
+msgid "Share"
+msgstr ""
+
+#: single.php:44
+msgid "Google+"
+msgstr ""
+
+#: single.php:47
+msgid "Linkedin"
+msgstr ""
+
+#: single.php:66
+msgid "Previous Post"
+msgstr ""
+
+#: single.php:71
+msgid "Next Post"
+msgstr ""
+
+#: single.php:165
+msgid "Written By"
+msgstr ""
+
+#: woocommerce/cart/cross-sells.php:36
+msgid "You may be interested in&hellip;"
+msgstr ""
+
+#: woocommerce/checkout/form-checkout.php:29
+msgid "You must be logged in to checkout."
+msgstr ""
+
+#: woocommerce/checkout/form-checkout.php:63
+msgid "Your order"
+msgstr ""
+
+#: woocommerce/global/quantity-input.php:33
+msgctxt "Product quantity input tooltip"
+msgid "Qty"
+msgstr ""
+
+#: woocommerce/single-product/add-to-cart/variable.php:32
+msgid "This product is currently out of stock and unavailable."
+msgstr ""
+
+#: woocommerce/single-product/add-to-cart/variable.php:56
+msgid "Clear"
+msgstr ""
+
+#: woocommerce/single-product/meta.php:31
+msgid "SKU:"
+msgstr ""
+
+#: woocommerce/single-product/meta.php:31
+msgid "N/A"
+msgstr ""
+
+#: woocommerce/single-product/meta.php:37
+msgid "Tag:"
+msgid_plural "Tags:"
+msgstr[0] ""
+msgstr[1] ""
+
+#: woocommerce/single-product/product-image.php:79
+msgid "Awaiting product image"
+msgstr ""
+
+#: woocommerce/single-product/rating.php:41
+msgid "%1$s rating"
+msgid_plural "%1$s ratings"
+msgstr[0] ""
+msgstr[1] ""
+
+#: woocommerce/single-product/rating.php:45
+msgid "%s customer review"
+msgid_plural "%s customer reviews"
+msgstr[0] ""
+msgstr[1] ""
+#. Theme Name of the plugin/theme
+msgid "SHB"
+msgstr ""
+
+#. Theme URI of the plugin/theme
+msgid "http://7uptheme.com/wordpress/shb"
+msgstr ""
+
+#. Description of the plugin/theme
+msgid "Are you looking at an eCommerce ready Wordpress theme? SHB is a premium theme with a pixel perfect design and extensive functionality to create your own professional, unique and successful eStore. It has a fluid and fully responsive layout design to make sure that your visitors will have an awesome viewing experience. In addition, SHB includes a Visual Composer plugin that allows you to build advanced layouts for your posts, pages and the homepage of your site using a drag and drop back and front end editors. Lastly, if you have any questions or concerns while setting up your site, you can depend on our reliable customer support."
+msgstr ""
+
+#. Author of the plugin/theme
+msgid "the 7up WordPress team"
+msgstr ""
+
+#. Author URI of the plugin/theme
+msgid "http://themeforest.net/user/7-up"
+msgstr ""
+
+#. Template Name of the plugin/theme
+msgid "Visual Template"
+msgstr ""
